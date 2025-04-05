@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admission Data Viewer</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen p-6">
+  <div class="max-w-7xl mx-auto">
+    <h1 class="text-3xl font-bold text-gray-800 mb-6">Admission Data - Government Colleges</h1>
+
+    <!-- Filters -->
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
+      <details class="p-2 border border-gray-300 rounded bg-white overflow-auto max-h-48">
+        <summary class="cursor-pointer font-medium mb-2">Select Courses</summary>
+        <div id="courseCheckboxContainer"></div>
+      </details>
+
+      <details class="p-2 border border-gray-300 rounded bg-white">
+        <summary class="cursor-pointer font-medium mb-2">Seat Types</summary>
+        <select id="filterSeat" multiple class="w-full p-2 border border-gray-300 rounded mt-2"></select>
+      </details>
+
+      <input type="number" id="filterPercentile" placeholder="Min Percentile" class="p-2 rounded border border-gray-300">
+
+      <details class="p-2 border border-gray-300 rounded bg-white">
+        <summary class="cursor-pointer font-medium mb-2">Category</summary>
+        <select id="filterCategory" multiple class="w-full p-2 border border-gray-300 rounded mt-2">
+          <option value="OPEN">OPEN</option>
+          <option value="OBC">OBC</option>
+          <option value="SC">SC</option>
+          <option value="ST">ST</option>
+        </select>
+      </details>
+
+      <details class="p-2 border border-gray-300 rounded bg-white">
+        <summary class="cursor-pointer font-medium mb-2">Gender</summary>
+        <select id="filterGender" multiple class="w-full p-2 border border-gray-300 rounded mt-2">
+          <option value="Male">Male</option>
+          <option value="Female">Female</option>
+        </select>
+      </details>
+
+      <details class="p-2 border border-gray-300 rounded bg-white">
+        <summary class="cursor-pointer font-medium mb-2">Modifier</summary>
+        <select id="filterModifier" multiple class="w-full p-2 border border-gray-300 rounded mt-2">
+          <option value="DEF">DEF</option>
+          <option value="PWD">PWD</option>
+        </select>
+      </details>
+
+      <button onclick="applyFilters()" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Apply Filters</button>
+    </div>
+
+    <!-- Table -->
+    <div class="overflow-auto bg-white rounded-lg shadow">
+      <table class="min-w-full text-sm text-gray-700">
+        <thead class="bg-gray-200">
+          <tr>
+            <th class="p-2 text-left">College</th>
+            <th class="p-2 text-left">Course</th>
+            <th class="p-2 text-left">Seat Type</th>
+            <th class="p-2 text-left">Merit No.</th>
+            <th class="p-2 text-left">Percentile</th>
+            <th class="p-2 text-left">CAP Round</th>
+            <th class="p-2 text-left">Year</th>
+          </tr>
+        </thead>
+        <tbody id="dataBody"></tbody>
+      </table>
+    </div>
+
+    <!-- Pagination Controls -->
+    <div class="flex justify-between items-center mt-4">
+      <button onclick="prevPage()" class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400">Previous</button>
+      <span id="pageInfo" class="text-sm text-gray-700"></span>
+      <button onclick="nextPage()" class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400">Next</button>
+    </div>
+  </div>
+
+  <script>
+    let originalData = [];
+    let currentPage = 1;
+    const rowsPerPage = 25;
+
+    fetch('admission_data.json')
+      .then(response => response.json())
+      .then(data => {
+        originalData = data;
+        populateCheckboxes();
+        populateDropdowns();
+        applyFilters();
+      });
+
+    function populateCheckboxes() {
+      const container = document.getElementById('courseCheckboxContainer');
+      const courses = [...new Set(originalData.map(row => row.course))];
+      courses.forEach(course => {
+        const label = document.createElement('label');
+        label.classList.add('block', 'mb-1');
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.value = course;
+        checkbox.classList.add('mr-2');
+        label.appendChild(checkbox);
+        label.append(course);
+        container.appendChild(label);
+      });
+    }
+
+    function populateDropdowns() {
+      const seatSelect = document.getElementById('filterSeat');
+      const seatTypes = [...new Set(originalData.map(row => row.seat_type))];
+      seatTypes.forEach(seat => {
+        const option = document.createElement('option');
+        option.value = seat;
+        option.textContent = seat;
+        seatSelect.appendChild(option);
+      });
+    }
+
+    function getSelectedValues(id) {
+      const select = document.getElementById(id);
+      return Array.from(select.selectedOptions).map(option => option.value.toLowerCase());
+    }
+
+    function getSelectedCourses() {
+      const checkboxes = document.querySelectorAll('#courseCheckboxContainer input[type=checkbox]:checked');
+      return Array.from(checkboxes).map(cb => cb.value);
+    }
+
+    let filteredData = [];
+
+    function applyFilters() {
+      const selectedCourses = getSelectedCourses();
+      const selectedSeats = getSelectedValues('filterSeat');
+      const percentile = parseFloat(document.getElementById('filterPercentile').value);
+      const selectedCategories = getSelectedValues('filterCategory');
+      const selectedGenders = getSelectedValues('filterGender');
+      const selectedModifiers = getSelectedValues('filterModifier');
+
+      filteredData = originalData.filter(row => {
+        const seatTypeLower = row.seat_type.toLowerCase();
+        const courseMatch = selectedCourses.length === 0 || selectedCourses.includes(row.course);
+        const seatMatch = selectedSeats.length === 0 || selectedSeats.some(seat => seatTypeLower.includes(seat));
+        const percentileMatch = isNaN(percentile) || row.percentile <= percentile;
+        const categoryMatch = selectedCategories.length === 0 || selectedCategories.some(cat => seatTypeLower.includes(cat));
+        const genderMatch = selectedGenders.length === 0 || selectedGenders.some(g => seatTypeLower.includes(g));
+        const modifierMatch = selectedModifiers.length === 0 || selectedModifiers.some(mod => seatTypeLower.includes(mod));
+
+        console.log(courseMatch, percentileMatch, categoryMatch)
+        return courseMatch && seatMatch && percentileMatch && categoryMatch && genderMatch && modifierMatch;
+      });
+
+      filteredData.sort((a, b) => b.percentile > a.percentile);
+
+      currentPage = 1;
+      renderTable(filteredData);
+    }
+
+    function renderTable(data) {
+      const tbody = document.getElementById('dataBody');
+      const pageInfo = document.getElementById('pageInfo');
+      tbody.innerHTML = '';
+
+      const start = (currentPage - 1) * rowsPerPage;
+      const end = start + rowsPerPage;
+      const pageData = data.slice(start, end);
+
+      pageInfo.textContent = `Page ${currentPage} of ${Math.ceil(data.length / rowsPerPage)}`;
+
+      pageData.forEach(row => {
+        const tr = document.createElement('tr');
+        tr.classList.add('border-b');
+
+        tr.innerHTML = `
+          <td class="p-2">${row.college_name}</td>
+          <td class="p-2">${row.course}</td>
+          <td class="p-2">${row.seat_type}</td>
+          <td class="p-2">${row.merit_number}</td>
+          <td class="p-2">${row.percentile.toFixed(2)}</td>
+          <td class="p-2">${row.cap_round}</td>
+          <td class="p-2">${row.academic_year}</td>
+        `;
+
+        tbody.appendChild(tr);
+      });
+    }
+
+    function nextPage() {
+      if ((currentPage * rowsPerPage) < filteredData.length) {
+        currentPage++;
+        renderTable(filteredData);
+      }
+    }
+
+    function prevPage() {
+      if (currentPage > 1) {
+        currentPage--;
+        renderTable(filteredData);
+      }
+    }
+  </script>
+</body>
+</html>

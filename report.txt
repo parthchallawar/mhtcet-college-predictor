@@ -1,0 +1,458 @@
+Total Conflicts Found: 457
+Conflict in GOPENH for ('100552710', 'Sant Gadge Baba Amravati University,Amravati', 'Petro Chemical Engineering'): {'110078', '67801'}
+Conflict in GSTH for ('101219110', 'Government College of Engineering,Yavatmal', 'Civil Engineering'): {'114482', '103344'}
+Conflict in GSTH for ('101229310', 'Government College of Engineering,Yavatmal', 'Electrical Engineering'): {'95997', '114955'}
+Conflict in GOPENO for ('110519110', 'Prof. Ram Meghe Institute of Technology & Research, Amravati', 'Civil Engineering'): {'116713', '96617'}
+Conflict in PWDOPENH for ('110524210', 'Prof. Ram Meghe Institute of Technology & Research, Amravati', 'Computer Science and Engineering'): {'122436', '92097'}
+Conflict in GOBCO for ('110719110', "P. R. Pote (Patil) Education & Welfare Trust's Group of Institution(Integrated Campus), Amravati", 'Civil Engineering'): {'92464', '117696'}
+Conflict in GOPENO for ('111461210', 'Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati', 'Mechanical Engineering'): {'90798', '107198'}
+Conflict in GOPENO for ('111719110', 'Janata Shikshan Prasarak Mandal’s Babasaheb Naik College Of Engineering, Pusad', 'Civil Engineering'): {'99053', '96072'}
+Conflict in GOPENO for ('111761210', 'Janata Shikshan Prasarak Mandal’s Babasaheb Naik College Of Engineering, Pusad', 'Mechanical Engineering'): {'103772', '119229'}
+Conflict in GOBCO for ('111937210', "Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali", 'Electronics and Telecommunication Engg'): {'120411', '94799'}
+Conflict in GOPENO for ('111961210', "Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali", 'Mechanical Engineering'): {'109290', '79506'}
+Conflict in GOPENO for ('112019110', 'Jawaharlal Darda Institute of Engineering and Technology, Yavatmal', 'Civil Engineering'): {'115624', '94698'}
+Conflict in GOPENO for ('112029310', 'Jawaharlal Darda Institute of Engineering and Technology, Yavatmal', 'Electrical Engineering'): {'93708', '111036'}
+Conflict in GOPENO for ('112061210', 'Jawaharlal Darda Institute of Engineering and Technology, Yavatmal', 'Mechanical Engineering'): {'115224', '104493'}
+Conflict in GOPENO for ('112361210', 'Dr.Rajendra Gode Institute of Technology & Research, Amravati', 'Mechanical Engineering'): {'108675', '110487'}
+Conflict in GOPENO for ('112629310', "Shri. Dadasaheb Gawai Charitable Trust's Dr. Smt. Kamaltai Gawai Institute of Engineering & Technology, Darapur, Amravati", 'Electrical Engineering'): {'109652', '106700'}
+Conflict in GOPENO for ('113037210', "Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon", 'Electronics and Telecommunication Engg'): {'106506', '111436'}
+Conflict in GOBCO for ('118024210', 'Sanmati Engineering College, Sawargaon Barde, Washim', 'Computer Science and Engineering'): {'120850', '96150'}
+Conflict in GOPENO for ('118026310', 'Sanmati Engineering College, Sawargaon Barde, Washim', 'Artificial Intelligence (AI) and Data Science'): {'116597', '102066'}
+Conflict in GSCH for ('118261210', 'Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana', 'Mechanical Engineering'): {'121154', '119192'}
+Conflict in GOPENO for ('126561210', 'Mauli Group of Institutions, College of Engineering and Technology, Shegaon.', 'Mechanical Engineering'): {'89164', '78349'}
+Conflict in GOPENO for ('126837210', 'Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile', 'Electronics and Telecommunication Engg'): {'108627', '120007'}
+Conflict in GOPENH for ('202181610', 'University Department of Chemical Technology, Aurangabad', 'Pharmaceutical and Fine Chemical Technology'): {'119864', '28405'}
+Conflict in GOPENO for ('211219110', 'Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad', 'Civil Engineering'): {'49814', '117988'}
+Conflict in GOPENO for ('211261210', 'Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad', 'Mechanical Engineering'): {'114471', '112487'}
+Conflict in GOBCO for ('211419110', 'Deogiri Institute of Engineering and Management Studies, Aurangabad', 'Civil Engineering'): {'119533', '120206'}
+Conflict in LOBCO for ('211419110', 'Deogiri Institute of Engineering and Management Studies, Aurangabad', 'Civil Engineering'): {'111518', '115215'}
+Conflict in GOPENH for ('211629710', "Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded", 'Electrical and Electronics Engineering'): {'116589', '115449'}
+Conflict in GOPENO for ('212719110', 'Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.', 'Civil Engineering'): {'96484', '113902'}
+Conflict in GOPENO for ('212761210', 'Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.', 'Mechanical Engineering'): {'111384', '98365'}
+Conflict in LOPENH for ('212929810', 'M.S. Bidve Engineering College, Latur', 'Electrical Engg [Electrical and Power]'): {'86929', '96883'}
+Conflict in LOPENH for ('213061210', "Terna Public Charitable Trust's College of Engineering, Osmanabad", 'Mechanical Engineering'): {'121118', '122314'}
+Conflict in GOPENO for ('213061210', "Terna Public Charitable Trust's College of Engineering, Osmanabad", 'Mechanical Engineering'): {'121399', '116007'}
+Conflict in GSCH for ('213124210', 'Shree Tuljabhavani College of Engineering, Tuljapur', 'Computer Science and Engineering'): {'112002', '111573'}
+Conflict in GOPENH for ('213137210', 'Shree Tuljabhavani College of Engineering, Tuljapur', 'Electronics and Telecommunication Engg'): {'107053', '121095'}
+Conflict in LOPENH for ('213137210', 'Shree Tuljabhavani College of Engineering, Tuljapur', 'Electronics and Telecommunication Engg'): {'111788', '97735'}
+Conflict in GSCH for ('213324210', "Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai", 'Computer Science and Engineering'): {'122354', '99310'}
+Conflict in GOPENO for ('213384410', "Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai", 'Electronics and Computer Engineering'): {'101289', '115617'}
+Conflict in GOPENO for ('213429310', "Peoples Education Society's College of Engineering, Aurangabad", 'Electrical Engineering'): {'113183', '121528'}
+Conflict in GOPENO for ('213561210', 'Hi-Tech Institute of Technology, Aurangabad', 'Mechanical Engineering'): {'116710', '114657'}
+Conflict in GSCH for ('213624610', 'Aditya Engineering College , Beed', 'Information Technology'): {'116910', '113448'}
+Conflict in GOPENO for ('213629310', 'Aditya Engineering College , Beed', 'Electrical Engineering'): {'118916', '122082'}
+Conflict in LOPENH for ('213691210', 'Aditya Engineering College , Beed', 'Computer Science and Engineering(Data Science)'): {'88476', '74842'}
+Conflict in GOPENO for ('213861210', "Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna", 'Mechanical Engineering'): {'120602', '114302'}
+Conflict in LOPENH for ('225219110', "Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani", 'Civil Engineering'): {'112190', '111277'}
+Conflict in GOPENH for ('250850310', 'GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.', 'Food Technology'): {'110135', '90963'}
+Conflict in GOBCH for ('253361210', 'CSMSS Chh. Shahu College of Engineering, Aurangabad', 'Mechanical Engineering'): {'110047', '113337'}
+Conflict in GOPENS for ('303319110', 'Dr. Babasaheb Ambedkar Technological University, Lonere', 'Civil Engineering'): {'103519', '102726'}
+Conflict in GOPENS for ('303324510', 'Dr. Babasaheb Ambedkar Technological University, Lonere', 'Computer Engineering'): {'18529', '25435'}
+Conflict in GOPENS for ('303324610', 'Dr. Babasaheb Ambedkar Technological University, Lonere', 'Information Technology'): {'31851', '28932'}
+Conflict in GOPENS for ('303329310', 'Dr. Babasaheb Ambedkar Technological University, Lonere', 'Electrical Engineering'): {'83816', '92393'}
+Conflict in GOPENS for ('303337210', 'Dr. Babasaheb Ambedkar Technological University, Lonere', 'Electronics and Telecommunication Engg'): {'62912', '72452'}
+Conflict in GOPENS for ('303337810', 'Dr. Babasaheb Ambedkar Technological University, Lonere', 'Electronics Engineering ( VLSI Design and Technology)'): {'120748', '115605'}
+Conflict in GOPENS for ('303350710', 'Dr. Babasaheb Ambedkar Technological University, Lonere', 'Chemical Engineering'): {'83387', '66875'}
+Conflict in GOPENS for ('303352710', 'Dr. Babasaheb Ambedkar Technological University, Lonere', 'Petro Chemical Engineering'): {'107330', '97376'}
+Conflict in GOPENS for ('303361210', 'Dr. Babasaheb Ambedkar Technological University, Lonere', 'Mechanical Engineering'): {'75860', '114773'}
+Conflict in DEFOPENS for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'36101', '35224', '56416'}
+Conflict in EWS for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'38595', '92374', '36755', '24726', '57421'}
+Conflict in LNT1S for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'77945', '68846', '32461', '88213'}
+Conflict in LNT2S for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'108871', '114682', '82457', '94963', '50323'}
+Conflict in LNT3S for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'55929', '27369', '56393', '38801'}
+Conflict in LOBCS for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'28413', '75498', '118259', '47537', '37290'}
+Conflict in LOPENS for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'19582', '32256', '80419', '46974', '28521'}
+Conflict in LSCS for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'48944', '43188', '119042', '122408', '83124'}
+Conflict in LSTS for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'109159', '107056', '121435', '77471'}
+Conflict in LVJS for ('303361210', "Usha Mittal Institute of Technology SNDT Women's University, Mumbai", 'Mechanical Engineering'): {'86379', '44465', '47265'}
+Conflict in GOPENH for ('304229310', 'Government College of Engineering, Ratnagiri', 'Electrical Engineering'): {'112065', '64128'}
+Conflict in GOPENH for ('304250410', 'Government College of Engineering, Ratnagiri', 'Food Technology And Management'): {'116360', '121410'}
+Conflict in GOPENH for ('304262410', 'Government College of Engineering, Ratnagiri', 'Mechatronics Engineering'): {'107099', '112420'}
+Conflict in GOPENH for ('304291810', 'Government College of Engineering, Ratnagiri', 'Civil and infrastructure Engineering'): {'121155', '117116'}
+Conflict in GSCH for ('304299510', 'Government College of Engineering, Ratnagiri', 'Artificial Intelligence and Data Science'): {'43404', '75793'}
+Conflict in GOPENO for ('313561210', "Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai", 'Mechanical Engineering'): {'98089', '49661'}
+Conflict in GOPENO for ('314629310', "Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai", 'Electrical Engineering'): {'110534', '90096'}
+Conflict in LOPENO for ('314890010', "Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College, Mumbai", 'Electronics and Computer Science'): {'110323', '41431'}
+Conflict in GOPENO for ('315460210', "Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai", 'Automobile Engineering'): {'103317', '119258'}
+Conflict in GOPENO for ('318361210', "Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai", 'Mechanical Engineering'): {'113488', '83355'}
+Conflict in GOPENO for ('318719110', "N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai", 'Civil Engineering'): {'108441', '69966'}
+Conflict in LOPENO for ('318719110', "N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai", 'Civil Engineering'): {'92063', '73634'}
+Conflict in GOPENO for ('318750710', "N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai", 'Chemical Engineering'): {'93852', '43005'}
+Conflict in GOPENO for ('318946610', 'Bharati Vidyapeeth College of Engineering, Navi Mumbai', 'Instrumentation Engineering'): {'92080', '110957'}
+Conflict in GSCH for ('318950710', 'Bharati Vidyapeeth College of Engineering, Navi Mumbai', 'Chemical Engineering'): {'82504', '99703'}
+Conflict in LOPENO for ('318950710', 'Bharati Vidyapeeth College of Engineering, Navi Mumbai', 'Chemical Engineering'): {'38635', '46246'}
+Conflict in GSCO for ('318961210', 'Bharati Vidyapeeth College of Engineering, Navi Mumbai', 'Mechanical Engineering'): {'117444', '111125'}
+Conflict in GSTO for ('319024510', 'Terna Engineering College, Nerul, Navi Mumbai', 'Computer Engineering'): {'91373', '93649'}
+Conflict in GOBCO for ('319037610', 'Terna Engineering College, Nerul, Navi Mumbai', 'Electronics Engineering'): {'86829', '113192'}
+Conflict in GOPENO for ('319061210', 'Terna Engineering College, Nerul, Navi Mumbai', 'Mechanical Engineering'): {'87069', '118421'}
+Conflict in GOPENO for ('319062410', 'Terna Engineering College, Nerul, Navi Mumbai', 'Mechatronics Engineering'): {'105626', '66494'}
+Conflict in GOPENO for ('319229310', 'Smt. Indira Gandhi College of Engineering, Navi Mumbai', 'Electrical Engineering'): {'91208', '105986'}
+Conflict in GOBCO for ('319337210', 'Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai', 'Electronics and Telecommunication Engg'): {'101539', '102092'}
+Conflict in GOPENO for ('319350710', 'Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai', 'Chemical Engineering'): {'33609', '122467'}
+Conflict in GOPENO for ('319461210', "Vidyavardhini's College of Engineering and Technology, Vasai", 'Mechanical Engineering'): {'82960', '69885'}
+Conflict in GOPENO for ('319661210', 'Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai', 'Mechanical Engineering'): {'99067', '110989'}
+Conflict in GOPENO for ('320037210', "Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri", 'Electronics and Telecommunication Engg'): {'76299', '108095'}
+Conflict in GOPENO for ('320061210', "Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri", 'Mechanical Engineering'): {'120933', '61749'}
+Conflict in GOPENO for ('320161210', "Rizvi Education Society's Rizvi College of Engineering, Bandra,Mumbai", 'Mechanical Engineering'): {'116764', '79637'}
+Conflict in GOPENO for ('320261210', 'Rajendra Mane College of Engineering & Technology Ambav Deorukh', 'Mechanical Engineering'): {'98633', '104553'}
+Conflict in GOPENO for ('320461210', 'St. Francis Institute of Technology,Borivali, Mumbai', 'Mechanical Engineering'): {'76324', '51265'}
+Conflict in GOPENO for ('320861210', 'Don Bosco Institute of Technology, Mumbai', 'Mechanical Engineering'): {'85990', '114707'}
+Conflict in GOPENO for ('321037210', "Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)", 'Electronics and Telecommunication Engg'): {'75732', '120766'}
+Conflict in GOPENO for ('321691110', "Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri", 'Computer Science and Engineering(Artificial Intelligence and Machine Learning)'): {'71412', '122107'}
+Conflict in GOPENO for ('321791610', "Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane", 'Automation and Robotics'): {'75959', '109485'}
+Conflict in LOPENO for ('321824510', "Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar", 'Computer Engineering'): {'104882', '25658'}
+Conflict in GOPENO for ('321890010', "Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar", 'Electronics and Computer Science'): {'62455', '104525'}
+Conflict in LOPENO for ('321924510', "Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur", 'Computer Engineering'): {'70320', '62360'}
+Conflict in GOPENO for ('322137210', 'Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon', 'Electronics and Telecommunication Engg'): {'99940', '100069'}
+Conflict in GOPENO for ('322191110', 'Late Shri. Vishnu Waman Thakur Charitable Trust, Viva Institute of Technology, Shirgaon', 'Computer Science and Engineering(Artificial Intelligence and Machine Learning)'): {'95408', '57053'}
+Conflict in GOPENO for ('322329310', "Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad", 'Electrical Engineering'): {'104437', '122598'}
+Conflict in GOBCO for ('335191110', 'Bharat College of Engineering, Kanhor, Badlapur(W)', 'Computer Science and Engineering(Artificial Intelligence and Machine Learning)'): {'95786', '106394'}
+Conflict in LOPENO for ('335324510', 'Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai', 'Computer Engineering'): {'98346', '93104'}
+Conflict in GOPENO for ('335392110', 'Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai', 'Artificial Intelligence and Machine Learning'): {'86635', '87676'}
+Conflict in GOPENO for ('342319110', 'Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai', 'Civil Engineering'): {'122087', '83424'}
+Conflict in GOPENO for ('344024510', 'Metropolitan Institute of Technology & Management, Sukhalwad, Sindhudurg.', 'Computer Engineering'): {'111786', '91173'}
+Conflict in GOBCO for ('346791110', "Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad", 'Computer Science and Engineering(Artificial Intelligence and Machine Learning)'): {'121147', '77999'}
+Conflict in GOPENO for ('347561210', 'A. P. Shah Institute of Technology, Thane', 'Mechanical Engineering'): {'101202', '110071'}
+Conflict in GSTH for ('400429310', 'Government College of Engineering, Chandrapur', 'Electrical Engineering'): {'118199', '115656'}
+Conflict in GSTH for ('400437210', 'Government College of Engineering, Chandrapur', 'Electronics and Telecommunication Engg'): {'106514', '83948'}
+Conflict in GOPENH for ('400446610', 'Government College of Engineering, Chandrapur', 'Instrumentation Engineering'): {'78380', '122378'}
+Conflict in LOPENH for ('400446610', 'Government College of Engineering, Chandrapur', 'Instrumentation Engineering'): {'82887', '103977'}
+Conflict in GOBCH for ('400461210', 'Government College of Engineering, Chandrapur', 'Mechanical Engineering'): {'69729', '120079'}
+Conflict in GSCH for ('400461210', 'Government College of Engineering, Chandrapur', 'Mechanical Engineering'): {'108962', '87715'}
+Conflict in LOPENH for ('400461210', 'Government College of Engineering, Chandrapur', 'Mechanical Engineering'): {'114500', '93849'}
+Conflict in GOPENO for ('410419110', 'Kavi Kulguru Institute of Technology & Science, Ramtek', 'Civil Engineering'): {'107024', '97609'}
+Conflict in LOPENO for ('410419110', 'Kavi Kulguru Institute of Technology & Science, Ramtek', 'Civil Engineering'): {'87846', '68914'}
+Conflict in GOPENO for ('410429310', 'Kavi Kulguru Institute of Technology & Science, Ramtek', 'Electrical Engineering'): {'97085', '98143'}
+Conflict in GOBCO for ('410437010', 'Kavi Kulguru Institute of Technology & Science, Ramtek', 'Electronics and Communication Engineering'): {'76068', '113477'}
+Conflict in GOPENO for ('411819110', 'Bapurao Deshmukh College of Engineering, Sevagram', 'Civil Engineering'): {'102192', '101512'}
+Conflict in GOPENO for ('411861210', 'Bapurao Deshmukh College of Engineering, Sevagram', 'Mechanical Engineering'): {'122441', '101564'}
+Conflict in LOPENO for ('412319110', 'Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur', 'Civil Engineering'): {'108633', '72530'}
+Conflict in LOPENO for ('412361210', 'Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur', 'Mechanical Engineering'): {'121132', '114243'}
+Conflict in GOPENH for ('413361210', "Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering, Nagpur", 'Mechanical Engineering'): {'122067', '121911'}
+Conflict in LOPENH for ('413519110', "Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur", 'Civil Engineering'): {'107475', '122625'}
+Conflict in GSTH for ('413524210', "Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur", 'Computer Science and Engineering'): {'109066', '121036'}
+Conflict in GOPENO for ('413929310', 'Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur', 'Electrical Engineering'): {'103042', '92497'}
+Conflict in GOPENH for ('414124510', 'Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur', 'Computer Engineering'): {'102601', '121170'}
+Conflict in LOPENH for ('414124510', 'Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur', 'Computer Engineering'): {'120879', '103561'}
+Conflict in GSCH for ('414199510', 'Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur', 'Artificial Intelligence and Data Science'): {'115203', '120484'}
+Conflict in LOPENH for ('414199510', 'Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur', 'Artificial Intelligence and Data Science'): {'118113', '78565'}
+Conflict in LOPENH for ('414319110', 'Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering, Bhandara', 'Civil Engineering'): {'120930', '122596'}
+Conflict in GSTH for ('414424210', 'Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur', 'Computer Science and Engineering'): {'119422', '122045'}
+Conflict in GOPENO for ('414461210', 'Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur', 'Mechanical Engineering'): {'104789', '113307'}
+Conflict in GOPENO for ('414519110', 'Wainganga College of Engineering and Management, Dongargaon, Nagpur', 'Civil Engineering'): {'92229', '121801'}
+Conflict in GOBCO for ('414529310', 'Wainganga College of Engineering and Management, Dongargaon, Nagpur', 'Electrical Engineering'): {'120376', '110917'}
+Conflict in GOBCO for ('414719110', 'K.D.K. College of Engineering, Nagpur', 'Civil Engineering'): {'121682', '107362'}
+Conflict in LOBCH for ('414761210', 'K.D.K. College of Engineering, Nagpur', 'Mechanical Engineering'): {'119676', '119479'}
+Conflict in GOBCO for ('414761210', 'K.D.K. College of Engineering, Nagpur', 'Mechanical Engineering'): {'121468', '105535'}
+Conflict in GOPENO for ('416319110', 'Rajiv Gandhi College of Engineering Research & Technology Chandrapur', 'Civil Engineering'): {'115383', '116139'}
+Conflict in GOPENO for ('416337010', 'Rajiv Gandhi College of Engineering Research & Technology Chandrapur', 'Electronics and Communication Engineering'): {'83296', '106980'}
+Conflict in GOPENO for ('416361210', 'Rajiv Gandhi College of Engineering Research & Technology Chandrapur', 'Mechanical Engineering'): {'32055', '108270'}
+Conflict in GOBCO for ('416370110', 'Rajiv Gandhi College of Engineering Research & Technology Chandrapur', 'Mining Engineering'): {'80578', '105344'}
+Conflict in GOPENO for ('417229310', 'Anjuman College of Engineering & Technology, Nagpur', 'Electrical Engineering'): {'109495', '120266'}
+Conflict in GOPENH for ('417537210', 'JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha', 'Electronics and Telecommunication Engg'): {'114163', '122470'}
+Conflict in GOPENO for ('417761210', 'Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road,Nagpur', 'Mechanical Engineering'): {'111461', '116899'}
+Conflict in GSCH for ('418124510', 'Swaminarayan Siddhanta Institute Of Technology, Nagpur', 'Computer Engineering'): {'122207', '108477'}
+Conflict in GOBCH for ('418137210', 'Swaminarayan Siddhanta Institute Of Technology, Nagpur', 'Electronics and Telecommunication Engg'): {'116530', '122526'}
+Conflict in GOPENO for ('418850310', 'Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni', 'Food Technology'): {'122331', '122591'}
+Conflict in GOBCO for ('419024210', "M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati", 'Computer Science and Engineering'): {'100440', '114211'}
+Conflict in GOPENO for ('419061210', "M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Badravati", 'Mechanical Engineering'): {'104859', '120102'}
+Conflict in GSCH for ('419235610', 'Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur', 'Electrical Engg[Electronics and Power]'): {'117225', '119713'}
+Conflict in GOPENH for ('419261210', 'Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur', 'Mechanical Engineering'): {'121424', '120330'}
+Conflict in GOBCH for ('419291110', 'Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur', 'Computer Science and Engineering(Artificial Intelligence and Machine Learning)'): {'118198', '116043'}
+Conflict in GOPENO for ('419337010', 'K.D.M. Education Society, Vidharbha Institute of Technology,Umred Road ,Nagpur', 'Electronics and Communication Engineering'): {'106830', '107051'}
+Conflict in GSTH for ('419624210', "Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur", 'Computer Science and Engineering'): {'96327', '121818'}
+Conflict in GOPENO for ('419729310', 'Jai Mahakali Shikshan Sanstha, Agnihotri College of Engineering, Sindhi(Meghe)', 'Electrical Engineering'): {'118440', '115454'}
+Conflict in LOPENH for ('419737010', 'Jai Mahakali Shikshan Sanstha, Agnihotri College of Engineering, Sindhi(Meghe)', 'Electronics and Communication Engineering'): {'105926', '110946'}
+Conflict in GOPENH for ('428519110', 'V M Institute of Engineering and Technology, Dongargaon, Nagpur', 'Civil Engineering'): {'118607', '120794'}
+Conflict in GOPENO for ('430224510', "Gondia Education Society's Manoharbhai Patel Institute Of Engineering & Technology, Shahapur, Bhandara", 'Computer Engineering'): {'81691', '121851'}
+Conflict in LOPENO for ('430224510', "Gondia Education Society's Manoharbhai Patel Institute Of Engineering & Technology, Shahapur, Bhandara", 'Computer Engineering'): {'71480', '122124'}
+Conflict in LNT1H for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'63778', '120183', '48699'}
+Conflict in LOBCH for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'108014', '38249', '68772'}
+Conflict in LOPENH for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'96185', '31992', '59882'}
+Conflict in LSCH for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'52987', '108555', '78473'}
+Conflict in LNT3H for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'85137', '68980'}
+Conflict in LVJH for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'106274', '26473'}
+Conflict in LNT2O for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'79737', '115209'}
+Conflict in LOBCO for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'28735', '118894', '63617', '106660'}
+Conflict in LOPENO for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'24608', '59293', '105258'}
+Conflict in LSCO for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'122196', '87461', '28111'}
+Conflict in EWS for ('430261210', 'Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur', 'Mechanical Engineering'): {'33026', '100905', '84256'}
+Conflict in GSTH for ('461329310', 'Suryodaya College of Engineering & Technology, Nagpur', 'Electrical Engineering'): {'115741', '120352'}
+Conflict in GOBCO for ('461329310', 'Suryodaya College of Engineering & Technology, Nagpur', 'Electrical Engineering'): {'111358', '105211'}
+Conflict in GOPENH for ('464824610', 'R.V. Parankar College of Engineering & Technology, Arvi, Dist Wardha', 'Information Technology'): {'76082', '118164'}
+Conflict in GOPENH for ('464829310', 'R.V. Parankar College of Engineering & Technology, Arvi, Dist Wardha', 'Electrical Engineering'): {'119450', '105267'}
+Conflict in GOPENO for ('464919110', 'Bajaj Institute of Technology, Wardha', 'Civil Engineering'): {'122452', '90975'}
+Conflict in LOPENO for ('464919110', 'Bajaj Institute of Technology, Wardha', 'Civil Engineering'): {'93892', '78368'}
+Conflict in LOPENO for ('464929310', 'Bajaj Institute of Technology, Wardha', 'Electrical Engineering'): {'56592', '45571'}
+Conflict in LOPENO for ('464961210', 'Bajaj Institute of Technology, Wardha', 'Mechanical Engineering'): {'60135', '76653'}
+Conflict in GOBCH for ('500350710', 'University Institute of Chemical Technology, North Maharashtra University, Jalgaon', 'Chemical Engineering'): {'118210', '108818'}
+Conflict in LOBCH for ('500350710', 'University Institute of Chemical Technology, North Maharashtra University, Jalgaon', 'Chemical Engineering'): {'113205', '92093'}
+Conflict in GSCO for ('510324510', "Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule", 'Computer Engineering'): {'70764', '113901'}
+Conflict in GOPENO for ('510337610', "Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule", 'Electronics Engineering'): {'81182', '115225'}
+Conflict in GOPENO for ('510361210', "Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule", 'Mechanical Engineering'): {'86353', '112248'}
+Conflict in GOPENO for ('510419110', 'Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon', 'Civil Engineering'): {'70739', '114764'}
+Conflict in GOPENO for ('510684410', "Khandesh College Education Society's College Of Engineering And Management, Jalgaon", 'Electronics and Computer Engineering'): {'116187', '101331'}
+Conflict in LOPENO for ('510819110', "Maratha Vidya Prasarak Samaj's Karmaveer Adv. Baburao Ganpatrao Thakare College Of Engineering, Nashik", 'Civil Engineering'): {'71080', '84140'}
+Conflict in LOPENO for ('510991610', 'Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik', 'Automation and Robotics'): {'95255', '119794'}
+Conflict in GOPENO for ('512419110', "Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon", 'Civil Engineering'): {'67554', '122085'}
+Conflict in GOPENO for ('512429310', "Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon", 'Electrical Engineering'): {'121578', '109786'}
+Conflict in GOPENO for ('512461210', "Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon", 'Mechanical Engineering'): {'121101', '103602'}
+Conflict in GOPENO for ('513919110', 'Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.', 'Civil Engineering'): {'117664', '86801'}
+Conflict in GOPENO for ('513946410', 'Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.', 'Instrumentation and Control Engineering'): {'83186', '118414'}
+Conflict in GOBCO for ('513950710', 'Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.', 'Chemical Engineering'): {'117026', '97632'}
+Conflict in GOPENO for ('513961210', 'Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.', 'Mechanical Engineering'): {'109088', '83247'}
+Conflict in GOBCO for ('515161210', "MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.", 'Mechanical Engineering'): {'117532', '91140'}
+Conflict in LOPENO for ('515161210', "MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.", 'Mechanical Engineering'): {'122608', '105997'}
+Conflict in GOPENO for ('516119110', 'Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar', 'Civil Engineering'): {'93271', '106999'}
+Conflict in GOPENO for ('516161210', 'Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar', 'Mechanical Engineering'): {'92214', '98906'}
+Conflict in GOPENO for ('516219110', "Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner", 'Civil Engineering'): {'85064', '96450'}
+Conflict in GOPENO for ('516261210', "Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner", 'Mechanical Engineering'): {'118697', '65358'}
+Conflict in LOPENO for ('516261210', "Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner", 'Mechanical Engineering'): {'117314', '69290'}
+Conflict in GOPENO for ('516291610', "Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner", 'Automation and Robotics'): {'101484', '64329'}
+Conflict in LOPENO for ('516429310', "P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar", 'Electrical Engineering'): {'121067', '113559'}
+Conflict in GOPENO for ('516437210', "P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar", 'Electronics and Telecommunication Engg'): {'122290', '83951'}
+Conflict in GOPENO for ('516837210', "T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur", 'Electronics and Telecommunication Engg'): {'118180', '114532'}
+Conflict in GOPENO for ('516937210', "Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule", 'Electronics and Telecommunication Engg'): {'87248', '106290'}
+Conflict in GOPENH for ('517099410', "Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal", 'Robotics'): {'114796', '107442'}
+Conflict in GOPENO for ('517099510', "Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal", 'Artificial Intelligence and Data Science'): {'87019', '117393'}
+Conflict in GOPENO for ('517129310', "Godavari Foundation's Godavari College Of Engineering, Jalgaon", 'Electrical Engineering'): {'122237', '106800'}
+Conflict in GOPENO for ('517319110', "SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)", 'Civil Engineering'): {'99500', '99860'}
+Conflict in LOPENO for ('517319110', "SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)", 'Civil Engineering'): {'111595', '88294'}
+Conflict in GOPENO for ('517361210', "SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)", 'Mechanical Engineering'): {'89217', '121943'}
+Conflict in LOPENO for ('517361210', "SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)", 'Mechanical Engineering'): {'108393', '76695'}
+Conflict in GOPENO for ('517729310', 'Matoshri College of Engineering and Research Centre, Eklahare, Nashik', 'Electrical Engineering'): {'97783', '96994'}
+Conflict in GOPENO for ('517761210', 'Matoshri College of Engineering and Research Centre, Eklahare, Nashik', 'Mechanical Engineering'): {'106630', '99142'}
+Conflict in GOPENO for ('518161210', "Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik", 'Mechanical Engineering'): {'121633', '104644'}
+Conflict in GOPENH for ('518229310', 'Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik', 'Electrical Engineering'): {'118873', '120004'}
+Conflict in GOBCO for ('530384410', 'Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha,', 'Electronics and Computer Engineering'): {'121791', '89519'}
+Conflict in GSCH for ('533037210', 'PUNE VIDYARTHI GRIHA’S COLLEGE OF ENGINEERING & SHRIKRUSHNA S. DHAMANKAR INSTITUTE OF MANAGEMENT, NASHIK', 'Electronics and Telecommunication Engg'): {'113392', '103967'}
+Conflict in GOBCH for ('533129310', "Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik", 'Electrical Engineering'): {'118936', '122614'}
+Conflict in GSCH for ('533137210', "Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik", 'Electronics and Telecommunication Engg'): {'107059', '107966'}
+Conflict in GOPENO for ('538019110', "Adsul's Technical Campus, Chas Dist. Ahmednagar", 'Civil Engineering'): {'119778', '119582'}
+Conflict in GOPENO for ('538029310', "Adsul's Technical Campus, Chas Dist. Ahmednagar", 'Electrical Engineering'): {'114397', '122359'}
+Conflict in GOPENO for ('539029310', "K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.", 'Electrical Engineering'): {'115364', '118410'}
+Conflict in GOPENO for ('539929310', 'Sanghavi College of Engineering, Varvandi, Nashik.', 'Electrical Engineering'): {'112982', '119470'}
+Conflict in GOPENO for ('540837210', 'Vidya Niketan College of Engineering, Bota Sangamner', 'Electronics and Telecommunication Engg'): {'108679', '120074'}
+Conflict in GOBCH for ('540937210', 'Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar', 'Electronics and Telecommunication Engg'): {'116585', '118263'}
+Conflict in LOPENO for ('541124510', 'Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon.', 'Computer Engineering'): {'113113', '90450'}
+Conflict in GOPENO for ('544961210', "Shri Vile Parle Kelavani Mandal's Institute of Technology, Dhule", 'Mechanical Engineering'): {'87194', '72159'}
+Conflict in GOBCH for ('600446410', 'Government College of Engineering & Research, Avasari Khurd', 'Instrumentation and Control Engineering'): {'117570', '63111'}
+Conflict in GOBCH for ('600460210', 'Government College of Engineering & Research, Avasari Khurd', 'Automobile Engineering'): {'78530', '120937'}
+Conflict in LOPENH for ('602850710', 'Department of Technology, Shivaji University, Kolhapur', 'Chemical Engineering'): {'119143', '93711'}
+Conflict in GOPENH for ('612219110', "TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune", 'Civil Engineering'): {'122227', '120362'}
+Conflict in GOPENH for ('612261210', "TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune", 'Mechanical Engineering'): {'121462', '121113'}
+Conflict in GSCH for ('613837210', 'Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune', 'Electronics and Telecommunication Engg'): {'81702', '116749'}
+Conflict in GOPENH for ('613861210', 'Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune', 'Mechanical Engineering'): {'118562', '119081'}
+Conflict in PWDOPENH for ('613924510', "Progressive Education Society's Modern College of Engineering, Pune", 'Computer Engineering'): {'58403', '120090'}
+Conflict in GSCH for ('613929310', "Progressive Education Society's Modern College of Engineering, Pune", 'Electrical Engineering'): {'69312', '118186'}
+Conflict in GSCH for ('613961210', "Progressive Education Society's Modern College of Engineering, Pune", 'Mechanical Engineering'): {'107538', '117303'}
+Conflict in LOPENH for ('613961210', "Progressive Education Society's Modern College of Engineering, Pune", 'Mechanical Engineering'): {'114577', '114639'}
+Conflict in GOPENH for ('614461210', 'Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune', 'Mechanical Engineering'): {'113805', '119937'}
+Conflict in GOPENH for ('614561210', "JSPM'S Jaywantrao Sawant College of Engineering,Pune", 'Mechanical Engineering'): {'121212', '121836'}
+Conflict in GSCH for ('615629310', "Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune", 'Electrical Engineering'): {'82002', '112661'}
+Conflict in GSCH for ('615661210', "Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune", 'Mechanical Engineering'): {'103490', '112141'}
+Conflict in GOPENH for ('616019110', "JSPM's Imperial College of Engineering and Research, Wagholi, Pune", 'Civil Engineering'): {'119260', '119932'}
+Conflict in GOPENH for ('616061210', "JSPM's Imperial College of Engineering and Research, Wagholi, Pune", 'Mechanical Engineering'): {'121203', '118729'}
+Conflict in GOBCH for ('617708210', 'Sinhgad College of Engineering, Vadgaon (BK), Pune', 'Bio Technology'): {'107973', '76045'}
+Conflict in GOPENH for ('617719110', 'Sinhgad College of Engineering, Vadgaon (BK), Pune', 'Civil Engineering'): {'108584', '120640'}
+Conflict in LOPENH for ('617719110', 'Sinhgad College of Engineering, Vadgaon (BK), Pune', 'Civil Engineering'): {'93466', '121715'}
+Conflict in GOBCH for ('617750710', 'Sinhgad College of Engineering, Vadgaon (BK), Pune', 'Chemical Engineering'): {'101008', '93115'}
+Conflict in GNT2H for ('617761210', 'Sinhgad College of Engineering, Vadgaon (BK), Pune', 'Mechanical Engineering'): {'111260', '121119'}
+Conflict in GOBCH for ('617761210', 'Sinhgad College of Engineering, Vadgaon (BK), Pune', 'Mechanical Engineering'): {'113106', '122092'}
+Conflict in GSCH for ('617761210', 'Sinhgad College of Engineering, Vadgaon (BK), Pune', 'Mechanical Engineering'): {'114598', '115029'}
+Conflict in LOPENH for ('617761210', 'Sinhgad College of Engineering, Vadgaon (BK), Pune', 'Mechanical Engineering'): {'116155', '117770'}
+Conflict in GSTH for ('617824510', "Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune", 'Computer Engineering'): {'117109', '72284'}
+Conflict in GSTH for ('617824610', "Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune", 'Information Technology'): {'114112', '79968'}
+Conflict in GSCH for ('617837210', "Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune", 'Electronics and Telecommunication Engg'): {'54599', '120276'}
+Conflict in GVJH for ('617837210', "Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune", 'Electronics and Telecommunication Engg'): {'114835', '67051'}
+Conflict in LSCH for ('617837210', "Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune", 'Electronics and Telecommunication Engg'): {'115447', '61050'}
+Conflict in GOPENH for ('617861210', "Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune", 'Mechanical Engineering'): {'119628', '109340'}
+Conflict in GSCH for ('618237210', 'Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)', 'Electronics and Telecommunication Engg'): {'66981', '96973'}
+Conflict in LSCH for ('618237210', 'Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)', 'Electronics and Telecommunication Engg'): {'118835', '74626'}
+Conflict in GOPENH for ('618261210', 'Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)', 'Mechanical Engineering'): {'107255', '120354'}
+Conflict in GOPENH for ('618429310', "K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli", 'Electrical Engineering'): {'112360', '119132'}
+Conflict in LOPENH for ('618429310', "K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli", 'Electrical Engineering'): {'94651', '106508'}
+Conflict in GSCH for ('618437210', "K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli", 'Electronics and Telecommunication Engg'): {'90998', '85516'}
+Conflict in GSTH for ('618524510', 'Sinhagad Institute of Technology, Lonavala', 'Computer Engineering'): {'92985', '114641'}
+Conflict in GOBCH for ('618529310', 'Sinhagad Institute of Technology, Lonavala', 'Electrical Engineering'): {'101174', '120292'}
+Conflict in LOPENH for ('618529310', 'Sinhagad Institute of Technology, Lonavala', 'Electrical Engineering'): {'116971', '84539'}
+Conflict in GSCH for ('618537210', 'Sinhagad Institute of Technology, Lonavala', 'Electronics and Telecommunication Engg'): {'107105', '63680'}
+Conflict in GSTH for ('618724510', 'Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune', 'Computer Engineering'): {'109148', '111170'}
+Conflict in GSCH for ('618737210', 'Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune', 'Electronics and Telecommunication Engg'): {'75040', '97353'}
+Conflict in GOPENH for ('620319110', "Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune", 'Civil Engineering'): {'116264', '118504'}
+Conflict in GSTH for ('620324510', "Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune", 'Computer Engineering'): {'107504', '111292'}
+Conflict in GOBCH for ('620361210', "Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune", 'Mechanical Engineering'): {'97901', '121415'}
+Conflict in LOPENH for ('620361210', "Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune", 'Mechanical Engineering'): {'109268', '107616'}
+Conflict in GOPENH for ('620661210', "Pune District Education Association's College of Engineering, Pune", 'Mechanical Engineering'): {'108343', '122317'}
+Conflict in GOPENH for ('620719110', "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune", 'Civil Engineering'): {'121956', '74086'}
+Conflict in LOPENH for ('620719110', "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune", 'Civil Engineering'): {'113527', '98084'}
+Conflict in PWDOPENH for ('620724510', "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune", 'Computer Engineering'): {'106010', '109890'}
+Conflict in GSCH for ('620761210', "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune", 'Mechanical Engineering'): {'112947', '110564'}
+Conflict in GVJH for ('620761210', "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune", 'Mechanical Engineering'): {'89959', '89099'}
+Conflict in GSTH for ('620799510', "Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune", 'Artificial Intelligence and Data Science'): {'112569', '87177'}
+Conflict in GSCO for ('621724210', "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions", 'Computer Science and Engineering'): {'106628', '120319'}
+Conflict in LOBCO for ('621724210', "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions", 'Computer Science and Engineering'): {'106704', '100853'}
+Conflict in GOPENO for ('621737210', "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions", 'Electronics and Telecommunication Engg'): {'120724', '77748'}
+Conflict in GOPENO for ('621761210', "Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions", 'Mechanical Engineering'): {'120835', '110861'}
+Conflict in GOBCH for ('621924210', "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur", 'Computer Science and Engineering'): {'102986', '116500'}
+Conflict in GSCH for ('621924210', "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur", 'Computer Science and Engineering'): {'112257', '119817'}
+Conflict in LOPENH for ('621924210', "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur", 'Computer Science and Engineering'): {'116827', '103163'}
+Conflict in GOPENH for ('621946110', "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur", 'Bio Medical Engineering'): {'113005', '120031'}
+Conflict in LOPENH for ('621946110', "KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur", 'Bio Medical Engineering'): {'92572', '89597'}
+Conflict in GSCO for ('622019110', "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur", 'Civil Engineering'): {'118336', '114032'}
+Conflict in GOBCO for ('622029310', "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur", 'Electrical Engineering'): {'90986', '75758'}
+Conflict in GSCO for ('622061210', "Shri Vithal Education and Research Institute's College of Engineering, Pandharpur", 'Mechanical Engineering'): {'106454', '100401'}
+Conflict in GOPENO for ('622319110', "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur", 'Civil Engineering'): {'116743', '122268'}
+Conflict in GOPENO for ('622329310', "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur", 'Electrical Engineering'): {'95197', '80185'}
+Conflict in GOPENO for ('622361210', "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur", 'Mechanical Engineering'): {'117725', '103150'}
+Conflict in LOPENO for ('622361210', "Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur", 'Mechanical Engineering'): {'118888', '115520'}
+Conflict in GOPENO for ('626990010', "Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli", 'Electronics and Computer Science'): {'75020', '73111'}
+Conflict in GOPENO for ('626992610', "Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli", 'Electrical and Computer'): {'91310', '91918'}
+Conflict in GOPENO for ('627019110', "Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara", 'Civil Engineering'): {'118863', '69520'}
+Conflict in GOPENO for ('627061210', "Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara", 'Mechanical Engineering'): {'117571', '115626'}
+Conflict in GOBCH for ('627219110', "Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune", 'Civil Engineering'): {'118435', '65106'}
+Conflict in GSCH for ('627219110', "Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune", 'Civil Engineering'): {'92579', '117837'}
+Conflict in LOBCH for ('627246610', "Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune", 'Instrumentation Engineering'): {'88090', '105591'}
+Conflict in LSCH for ('627261210', "Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune", 'Mechanical Engineering'): {'84394', '121175'}
+Conflict in GSTH for ('627299510', "Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune", 'Artificial Intelligence and Data Science'): {'93401', '93122'}
+Conflict in GSCH for ('627461210', "Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune", 'Mechanical Engineering'): {'64991', '109576'}
+Conflict in GOPENH for ('627484310', "Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune", 'Printing Technology'): {'114484', '105994'}
+Conflict in LOPENH for ('627519110', "Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati", 'Civil Engineering'): {'109470', '110973'}
+Conflict in DEFOBCS for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'9218', '31853'}
+Conflict in DEFOPENS for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'98327', '9708', '84640', '17665', '6087'}
+Conflict in DEFROBCS for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'9200', '28588', '14168'}
+Conflict in EWS for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'3915', '9201', '32961', '31879', '3195'}
+Conflict in LNT1S for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'7912', '24546', '6541', '42248', '31231'}
+Conflict in LNT2S for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'61150', '13967', '84008', '6771', '5950'}
+Conflict in LNT3S for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'4382', '11646', '5841', '25323', '42887'}
+Conflict in LOBCS for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'25273', '4989', '28367', '10210', '4532'}
+Conflict in LOPENS for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'3725', '7344', '2930', '18472', '18237'}
+Conflict in LSCS for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'15274', '12323', '53689', '70010', '26757'}
+Conflict in LSTS for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'111015', '66405', '56453'}
+Conflict in LVJS for ('627561210', "MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune", 'Mechanical Engineering'): {'29733', '29241', '12779', '13391', '39383'}
+Conflict in GOBCO for ('627726310', "Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur", 'Artificial Intelligence (AI) and Data Science'): {'91268', '79875'}
+Conflict in GOBCH for ('627819110', "All India Shri Shivaji Memorial Society's College of Engineering, Pune", 'Civil Engineering'): {'71988', '118171'}
+Conflict in GSCH for ('627819110', "All India Shri Shivaji Memorial Society's College of Engineering, Pune", 'Civil Engineering'): {'98124', '112327'}
+Conflict in LOPENH for ('627819110', "All India Shri Shivaji Memorial Society's College of Engineering, Pune", 'Civil Engineering'): {'113686', '45709'}
+Conflict in GOBCH for ('627850710', "All India Shri Shivaji Memorial Society's College of Engineering, Pune", 'Chemical Engineering'): {'108492', '102038'}
+Conflict in LOPENH for ('627862510', "All India Shri Shivaji Memorial Society's College of Engineering, Pune", 'Mechanical Engineering[Sandwich]'): {'46902', '121031'}
+Conflict in GSTH for ('628124510', "Modern Education Society's College of Engineering, Pune", 'Computer Engineering'): {'121048', '61624'}
+Conflict in LOPENO for ('628161210', "Modern Education Society's College of Engineering, Pune", 'Mechanical Engineering'): {'108905', '94788'}
+Conflict in LOPENH for ('628419110', "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune", 'Civil Engineering'): {'120073', '117835'}
+Conflict in GSCH for ('628429310', "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune", 'Electrical Engineering'): {'89279', '114570'}
+Conflict in GSCH for ('628461210', "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune", 'Mechanical Engineering'): {'108176', '101638'}
+Conflict in GOBCO for ('628461210', "Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune", 'Mechanical Engineering'): {'86652', '104649'}
+Conflict in LNT1H for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'76328', '46274', '25664'}
+Conflict in LNT2H for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'22872', '24280', '48674'}
+Conflict in LNT3H for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'39466', '15256'}
+Conflict in LOBCH for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'19241', '15896', '50263'}
+Conflict in LOPENH for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'38826', '17696', '13691'}
+Conflict in LSCH for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'104659', '46861', '29357'}
+Conflict in LSTH for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'82651', '102563'}
+Conflict in LVJH for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'26703', '24390', '39555', '66433'}
+Conflict in LOBCO for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'15071', '12401', '34881'}
+Conflict in LOPENO for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'11361', '14658', '33467'}
+Conflict in LSCO for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'23314', '49408', '27098'}
+Conflict in LSTO for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'66969', '72619'}
+Conflict in DEFOPENS for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'18672', '77608', '29704'}
+Conflict in DEFROBCS for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'78386', '27958', '32741'}
+Conflict in EWS for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'32630', '15054', '13596'}
+Conflict in LNT2O for ('628499510', "Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune", 'Artificial Intelligence and Data Science'): {'51534', '22324'}
+Conflict in GOPENO for ('628861210', "Bharati Vidyapeeth's College of Engineering, Kolhapur", 'Mechanical Engineering'): {'118699', '111587'}
+Conflict in GSCH for ('629819110', "Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune", 'Civil Engineering'): {'117831', '120664'}
+Conflict in LOPENH for ('629819110', "Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune", 'Civil Engineering'): {'109142', '116604'}
+Conflict in GSCH for ('629821910', "Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune", 'Robotics and Automation'): {'115903', '74880'}
+Conflict in GSTH for ('629824510', "Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune", 'Computer Engineering'): {'98578', '95607'}
+Conflict in GOBCH for ('629829310', "Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune", 'Electrical Engineering'): {'109160', '111045'}
+Conflict in LOBCH for ('629829310', "Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune", 'Electrical Engineering'): {'116579', '113360'}
+Conflict in GSCH for ('629861210', "Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune", 'Mechanical Engineering'): {'119762', '121311'}
+Conflict in GOPENO for ('630319110', "Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad", 'Civil Engineering'): {'92544', '120359'}
+Conflict in GOPENO for ('630361210', "Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad", 'Mechanical Engineering'): {'118770', '120070'}
+Conflict in GOBCO for ('630424210', "Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli", 'Computer Science and Engineering'): {'95321', '94151'}
+Conflict in GOPENO for ('630492110', "Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli", 'Artificial Intelligence and Machine Learning'): {'93308', '116979'}
+Conflict in GOPENH for ('630719110', 'Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli', 'Civil Engineering'): {'105253', '117751'}
+Conflict in GOPENO for ('630761210', 'Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli', 'Mechanical Engineering'): {'119700', '103541'}
+Conflict in GOPENO for ('631061210', 'Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune', 'Mechanical Engineering'): {'101605', '104632'}
+Conflict in GOBCH for ('631129310', 'Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi', 'Electrical Engineering'): {'115199', '117797'}
+Conflict in GSCH for ('631137210', 'Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi', 'Electronics and Telecommunication Engg'): {'112637', '49899'}
+Conflict in GOBCH for ('631324510', 'Jaywant College of Engineering & Polytechnic , Kille Macchindragad Tal. Walva District- Sangali', 'Computer Engineering'): {'72712', '120589'}
+Conflict in GOBCO for ('631524210', "Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala", 'Computer Science and Engineering'): {'106767', '84365'}
+Conflict in LOPENO for ('631524210', "Holy-Wood Academy's Sanjeevan Engineering and Technology Institute, Panhala", 'Computer Science and Engineering'): {'55190', '114329'}
+Conflict in GOBCH for ('631824210', "Abhinav Education Society's College of Engineering and Technology (Degree), Wadwadi", 'Computer Science and Engineering'): {'107708', '111576'}
+Conflict in GOPENH for ('631861210', "Abhinav Education Society's College of Engineering and Technology (Degree), Wadwadi", 'Mechanical Engineering'): {'119377', '82074'}
+Conflict in LOPENH for ('631919110', 'Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal. Indapur', 'Civil Engineering'): {'98973', '120633'}
+Conflict in GOBCH for ('631929310', 'Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal. Indapur', 'Electrical Engineering'): {'116518', '119604'}
+Conflict in GOPENH for ('632199510', 'Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur', 'Artificial Intelligence and Data Science'): {'122303', '122070'}
+Conflict in GOBCH for ('632437210', "Rajgad Dnyanpeeth's Technical Campus,Dhangwadi, Bhor", 'Electronics and Telecommunication Engg'): {'110454', '96348'}
+Conflict in GOPENH for ('632529310', "Alard Charitable Trust's Alard College of Engineering and Management, Pune", 'Electrical Engineering'): {'109008', '115071'}
+Conflict in GOPENO for ('632619110', 'Karmayogi Institute of Technology', 'Civil Engineering'): {'120339', '117275'}
+Conflict in GOBCO for ('632624210', 'Karmayogi Institute of Technology', 'Computer Science and Engineering'): {'105666', '106933'}
+Conflict in GOBCH for ('632637210', 'Karmayogi Institute of Technology', 'Electronics and Telecommunication Engg'): {'114175', '89912'}
+Conflict in LOPENH for ('632661210', 'Karmayogi Institute of Technology', 'Mechanical Engineering'): {'119346', '122339'}
+Conflict in GSTH for ('641924210', 'Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune', 'Computer Science and Engineering'): {'109913', '74658'}
+Conflict in GSCH for ('641937010', 'Nutan College of Engineering and Research, Talegaon Dabhade Tal. Maval, Pune', 'Electronics and Communication Engineering'): {'122259', '89511'}
+Conflict in GOBCH for ('646624210', 'Shree Santkrupa Shikshan Sanstha, Shree Santkrupa Institute Of Engineering & Technology, Karad', 'Computer Science and Engineering'): {'103211', '122211'}
+Conflict in GOPENH for ('662261210', 'ISBM College Of Engineering Pune', 'Mechanical Engineering'): {'121331', '120931'}
+Conflict in GOPENH for ('662829310', 'Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune', 'Electrical Engineering'): {'117308', '122460'}
+Conflict in GOPENH for ('663219110', "Navsahyadri Education Society's Group of Institutions", 'Civil Engineering'): {'121125', '105435'}
+Conflict in GOPENH for ('663261210', "Navsahyadri Education Society's Group of Institutions", 'Mechanical Engineering'): {'121446', '117630'}
+Conflict in GSCH for ('663437210', "KJEI's Trinity Academy of Engineering, Yewalewadi, Pune", 'Electronics and Telecommunication Engg'): {'121551', '109587'}
+Conflict in LSCH for ('663437210', "KJEI's Trinity Academy of Engineering, Yewalewadi, Pune", 'Electronics and Telecommunication Engg'): {'78146', '88295'}
+Conflict in GSCH for ('664029310', 'N. B. Navale Sinhgad College of Engineering, Kegaon, solapur', 'Electrical Engineering'): {'110423', '97379'}
+Conflict in GOBCO for ('664029310', 'N. B. Navale Sinhgad College of Engineering, Kegaon, solapur', 'Electrical Engineering'): {'120213', '106082'}
+Conflict in GOBCO for ('664061210', 'N. B. Navale Sinhgad College of Engineering, Kegaon, solapur', 'Mechanical Engineering'): {'117798', '113007'}
+Conflict in LOPENO for ('664061210', 'N. B. Navale Sinhgad College of Engineering, Kegaon, solapur', 'Mechanical Engineering'): {'115881', '106188'}
+Conflict in GOBCO for ('664329310', 'S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur', 'Electrical Engineering'): {'89441', '119920'}
+Conflict in GOBCO for ('664361210', 'S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur', 'Mechanical Engineering'): {'116721', '120113'}
+Conflict in GSCO for ('664361210', 'S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur', 'Mechanical Engineering'): {'119317', '122510'}
+Conflict in GOPENH for ('664929310', "TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune", 'Electrical Engineering'): {'122272', '105314'}
+Conflict in GSCH for ('664937210', "TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune", 'Electronics and Telecommunication Engg'): {'76876', '110280'}
+Conflict in LSCH for ('673237210', 'Ajeenkya DY Patil School of Engineering', 'Electronics and Telecommunication Engg'): {'107785', '76415'}
+Conflict in GOPENH for ('673260210', 'Ajeenkya DY Patil School of Engineering', 'Automobile Engineering'): {'105519', '111417'}
+Conflict in GOPENH for ('673261210', 'Ajeenkya DY Patil School of Engineering', 'Mechanical Engineering'): {'120078', '120296'}
+Conflict in PWDOPENH for ('675424510', 'International Institute of Information Technology (I²IT), Pune.', 'Computer Engineering'): {'105161', '71380'}
+Conflict in GOPENH for ('675519110', 'JSPM Narhe Technical Campus, Pune.', 'Civil Engineering'): {'121935', '122296'}
+Conflict in GOPENH for ('675561210', 'JSPM Narhe Technical Campus, Pune.', 'Mechanical Engineering'): {'118687', '121709'}
+Conflict in GSCH for ('675624210', 'Fabtech Technical Campus College of Engineering and Research, Sangola', 'Computer Science and Engineering'): {'110137', '116269'}
+Conflict in LOBCH for ('675624210', 'Fabtech Technical Campus College of Engineering and Research, Sangola', 'Computer Science and Engineering'): {'122054', '95557'}
+Conflict in GOPENH for ('675661210', 'Fabtech Technical Campus College of Engineering and Research, Sangola', 'Mechanical Engineering'): {'111807', '122170'}
+Conflict in GOPENO for ('676229310', 'Nanasaheb Mahadik College of Engineering,Walwa, Sangli.', 'Electrical Engineering'): {'120863', '112136'}
+Conflict in GOPENO for ('676237210', 'Nanasaheb Mahadik College of Engineering,Walwa, Sangli.', 'Electronics and Telecommunication Engg'): {'93796', '121699'}
+Conflict in GSCH for ('676624510', "Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara", 'Computer Engineering'): {'122418', '114985'}
+Conflict in GSCH for ('676937210', 'Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.', 'Electronics and Telecommunication Engg'): {'90825', '77762'}
+Conflict in GOBCH for ('677229310', 'NBN Sinhgad Technical Institutes Campus, Pune', 'Electrical Engineering'): {'122106', '93288'}
+Conflict in GOPENO for ('678029310', "D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.", 'Electrical Engineering'): {'97669', '77837'}
+Conflict in GOPENO for ('678061210', "D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.", 'Mechanical Engineering'): {'119308', '102224'}
+Conflict in GOBCH for ('678124210', 'Bhagwant Institute of Technology, Barshi', 'Computer Science and Engineering'): {'114399', '101597'}
+Conflict in GSCH for ('678124210', 'Bhagwant Institute of Technology, Barshi', 'Computer Science and Engineering'): {'114672', '120632'}
+Conflict in GSCH for ('678224210', 'Sahakar Maharshee Shankarrao Mohite Patil Institute of Technology & Research, Akluj', 'Computer Science and Engineering'): {'116570', '117165'}
+Conflict in GOPENH for ('679461210', 'Anantrao Pawar College of Engineering & Research, Pune', 'Mechanical Engineering'): {'116126', '107921'}
+Conflict in GOPENH for ('679661210', "Bharati Vidyapeeth's College of Engineering,Lavale, Pune", 'Mechanical Engineering'): {'70541', '107261'}
+Conflict in LOPENH for ('679661210', "Bharati Vidyapeeth's College of Engineering,Lavale, Pune", 'Mechanical Engineering'): {'110942', '114379'}
+Conflict in GOPENO for ('679737210', 'Dnyanshree Institute Engineering and Technology, Satara', 'Electronics and Telecommunication Engg'): {'122200', '76547'}
+Conflict in GOPENO for ('679924210', 'Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj', 'Computer Science and Engineering'): {'117612', '114005'}
+Conflict in GOPENH for ('679924510', 'Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj', 'Computer Engineering'): {'100494', '118677'}
+Conflict in GOBCH for ('680219110', 'Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune', 'Civil Engineering'): {'117692', '118672'}
+Conflict in LOPENH for ('680219110', 'Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune', 'Civil Engineering'): {'99977', '78490'}
+Conflict in PWDOPENH for ('680224510', 'Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune', 'Computer Engineering'): {'86526', '67545'}
+Conflict in GOBCH for ('680250710', 'Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune', 'Chemical Engineering'): {'80756', '101592'}
+Conflict in GSCH for ('680250710', 'Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune', 'Chemical Engineering'): {'74364', '105941'}
+Conflict in GSCH for ('680261210', 'Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune', 'Mechanical Engineering'): {'111242', '99717'}
+Conflict in GSTH for ('680299510', 'Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune', 'Artificial Intelligence and Data Science'): {'101133', '92234'}
+Conflict in GOPENO for ('680319110', 'Sant Gajanan Maharaj College of Engineering, Gadhinglaj', 'Civil Engineering'): {'121905', '116433'}
+Conflict in GOPENO for ('680329310', 'Sant Gajanan Maharaj College of Engineering, Gadhinglaj', 'Electrical Engineering'): {'83735', '113662'}
+Conflict in GOPENO for ('680361210', 'Sant Gajanan Maharaj College of Engineering, Gadhinglaj', 'Mechanical Engineering'): {'100344', '99776'}
+Conflict in GOBCH for ('682219110', "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet", 'Civil Engineering'): {'122553', '104602'}
+Conflict in GSCH for ('682219110', "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet", 'Civil Engineering'): {'118242', '98232'}
+Conflict in GSCH for ('682261210', "Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet", 'Mechanical Engineering'): {'61322', '110949'}
+Conflict in GSTH for ('683424510', 'Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon', 'Computer Engineering'): {'78488', '98087'}
+Conflict in GSCH for ('687824210', 'Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur', 'Computer Science and Engineering'): {'114371', '107915'}
+Conflict in LOBCH for ('690124210', "MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi", 'Computer Science and Engineering'): {'57930', '86280'}
+Conflict in LNT2H for ('690161210', "Shree Siddheshwar Women's College Of Engineering Solapur.", 'Mechanical Engineering'): {'101215', '113053'}
+Conflict in LOBCH for ('690161210', "Shree Siddheshwar Women's College Of Engineering Solapur.", 'Mechanical Engineering'): {'112296', '117829'}
+Conflict in LOPENH for ('690161210', "Shree Siddheshwar Women's College Of Engineering Solapur.", 'Mechanical Engineering'): {'119537', '110837', '83740'}
+Conflict in LSCH for ('690161210', "Shree Siddheshwar Women's College Of Engineering Solapur.", 'Mechanical Engineering'): {'121160', '116118'}
+Conflict in LOPENO for ('690161210', "Shree Siddheshwar Women's College Of Engineering Solapur.", 'Mechanical Engineering'): {'117262', '93317', '105989'}
+Conflict in LNT1O for ('690161210', "Shree Siddheshwar Women's College Of Engineering Solapur.", 'Mechanical Engineering'): {'119578', '113919'}
+Conflict in LOBCO for ('690161210', "Shree Siddheshwar Women's College Of Engineering Solapur.", 'Mechanical Engineering'): {'116985', '112049'}
+Conflict in EWS for ('690161210', "Shree Siddheshwar Women's College Of Engineering Solapur.", 'Mechanical Engineering'): {'110995', '120854', '84378', '100661'}

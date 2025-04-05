@@ -1,0 +1,7 @@
+combine.py <- combines all the csvs into a single csv file
+tyu.py <- converts raw pdf to a extracted text
+ri1.py <- converts extracted text to csv without permutaton
+ri2.py <- applies permutations and saves it as rputt.csv
+
+capacities.py <- converts tsv to csv for capacties adn college type
+merge.py <- combines college type with cap data

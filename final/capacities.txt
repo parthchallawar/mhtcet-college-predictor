@@ -1,0 +1,355 @@
+Sr. No.	Institute Code	Institute Name	Status	Total Intake
+1.	01002	Government College of Engineering, Amravati	Government, Autonomous	390
+2.	01005	Sant Gadge Baba Amravati University,Amravati	University Department	60
+3.	01012	Government College of Engineering,Yavatmal	Government	300
+4.	01101	Shri Sant Gajanan Maharaj College of Engineering,Shegaon	Un-Aided	360
+5.	01105	Prof. Ram Meghe Institute of Technology & Research, Amravati	Un-Aided, Autonomous	840
+6.	01107	P. R. Pote Patil College of Engineering & Management, Amravati	Un-Aided, Autonomous	780
+7.	01114	Sipna Shikshan Prasarak Mandal College of Engineering & Technology, Amravati	Un-Aided, Autonomous	600
+8.	01116	Shri Shivaji Education Society's College of Engineering and Technology, Akola	Un-Aided	360
+9.	01117	Janata Shikshan Prasarak Mandals Babasaheb Naik College Of Engineering, Pusad	Un-Aided	420
+10.	01119	Paramhansa Ramkrishna Maunibaba Shikshan Santha's , Anuradha Engineering College, Chikhali	Un-Aided	285
+11.	01120	Jawaharlal Darda Institute of Engineering and Technology, Yavatmal	Un-Aided, Linguistic Minority - Hindi	330
+12.	01121	Shri Hanuman Vyayam Prasarak Mandals College of Engineering & Technology, Amravati	Un-Aided	240
+13.	01123	Dr.Rajendra Gode Institute of Technology & Research, Amravati	Un-Aided	240
+14.	01125	Dwarka Bahu Uddeshiya Gramin Vikas Foundation, Rajarshi Shahu College of Engineering, Buldhana	Un-Aided	240
+15.	01126	Takshashila Institute of Engineering & Technology, Darapur, Amravati	Un-Aided	240
+16.	01127	Jagadambha Bahuuddeshiya Gramin Vikas Sanstha's Jagdambha College of Engineering and Technology, Yavatmal	Un-Aided, Autonomous	330
+17.	01128	Prof Ram Meghe College of Engineering and Management, Badnera	Un-Aided	480
+18.	01130	Vision Buldhana Educational & Welfare Society's Pankaj Laddhad Institute of Technology & Management Studies, Yelgaon	Un-Aided	180
+19.	01180	Sanmati Engineering College, Sawargaon Barde, Washim	Un-Aided	300
+20.	01182	Padmashri Dr. V.B. Kolte College of Engineering, Malkapur, Buldhana	Un-Aided	240
+21.	01265	Mauli Group of Institutions, College of Engineering and Technology, Shegaon.	Un-Aided	360
+22.	01268	Siddhivinayak Technical Campus, School of Engineering & Research Technology, Shirasgon, Nile 	Un-Aided	210
+23.	01276	Manav School of Engineering & Technology, Gut No. 1035 Nagpur Surat Highway, NH No. 6 Tal.Vyala, Balapur, Akola, 444302	Un-Aided	108
+24.	02008	Government College of Engineering, Chhatrapati Sambhajinagar	Government, Autonomous	360
+25.	02020	Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded	Government-Aided, Autonomous	610
+26.	02021	University Department of Chemical Technology, Aurangabad	University Department	22
+27.	02032	Institute of Chemical Technology, Mumbai Marathwada off campus, Jalna 	University Managed, Autonomous	60
+28.	02111	Everest Education Society, Group of Institutions (Integrated Campus), Ohar	Un-Aided, Religious Minority - Muslim	330
+29.	02112	Shree Yash Pratishthan, Shreeyash College of Engineering and Technology, Aurangabad	Un-Aided	600
+30.	02113	G. S. Mandal's Maharashtra Institute of Technology, Aurangabad	Un-Aided, Autonomous	1110
+31.	02114	Deogiri Institute of Engineering and Management Studies, Aurangabad	Un-Aided	540
+32.	02116	Matoshri Pratishan's Group of Institutions (Integrated Campus), Kupsarwadi , Nanded	Un-Aided	300
+33.	02127	Mahatma Gandhi Missions College of Engineering, Hingoli Rd, Nanded.	Un-Aided	600
+34.	02129	M.S. Bidve Engineering College, Latur	Un-Aided	540
+35.	02130	Terna Public Charitable Trust's College of Engineering, Osmanabad	Un-Aided	300
+36.	02131	Shree Tuljabhavani College of Engineering, Tuljapur	Un-Aided	240
+37.	02133	Mahatma Basaweshwar Education Society's College of Engineering, Ambejogai	Un-Aided	330
+38.	02134	Peoples Education Society's College of Engineering, Aurangabad	Un-Aided	420
+39.	02135	Hi-Tech Institute of Technology, Aurangabad	Un-Aided	360
+40.	02136	Aditya Engineering College , Beed	Un-Aided	420
+41.	02137	Nagnathappa Halge Engineering College, Parli, Beed	Un-Aided	240
+42.	02138	Matsyodari Shikshan Sansatha's College of Engineering and Technology, Jalna	Un-Aided	240
+43.	02146	Adarsh Shikshan Prasarak Mandal's K. T. Patil College of Engineering and Technology, Osmanabad	Un-Aided	150
+44.	02250	Aurangabad College of Engineering, Naygaon Savangi, Aurangabad	Un-Aided	174
+45.	02252	Marathwada Shikshan Prasarak Mandal's Shri Shivaji Institute of Engineering and Management Studies, Parbhani	Un-Aided	210
+46.	02254	Vilasrao Deshmukh Foundation Group of Institutions, Latur	Un-Aided	360
+47.	02282	Aditya Education Trust's Mitthulalji Sarada Polytechnic, Nalwandi Road, Beed	Un-Aided	360
+48.	02508	GRAMIN TECHNICAL AND MANAGEMENT CAMPUS NANDED.	Un-Aided	630
+49.	02516	International Centre Of Excellence In Engineering and Management (ICEEM)	Un-Aided	270
+50.	02522	STMEI's Sandipani Technical Campus-Faculty of Engineering, Latur.	Un-Aided	300
+51.	02533	CSMSS Chh. Shahu College of Engineering, Aurangabad	Un-Aided	840
+52.	02637	Jijau Institute of Engineering Technology and Management, Khandgaon (Bendri), Taluka Naigaon, District Nanded	Un-Aided	330
+53.	02641	Dr. V.K. Patil College of Engineering & Technology	Un-Aided	240
+54.	02666	Mangaldeep College of Engineering	Un-Aided	300
+55.	02758	Sant Eknath College of Engineering	Un-Aided	300
+56.	03012	Veermata Jijabai Technological Institute(VJTI), Matunga, Mumbai	Government-Aided, Autonomous	540
+57.	03014	Sardar Patel College of Engineering, Andheri	Government-Aided, Autonomous	180
+58.	03025	Svkm's Shri Bhagubhai Mafatlal Polytechnic & College of Engineering	Government-Aided, Autonomous, Linguistic Minority - Gujarathi	240
+59.	03033	Dr. Babasaheb Ambedkar Technological University, Lonere	University	558
+60.	03035	Usha Mittal Institute of Technology SNDT Women's University, Mumbai	University Managed (Un-Aided)	360
+61.	03036	Institute of Chemical Technology, Matunga, Mumbai	Deemed University, Autonomous	209
+62.	03042	Loknete Shamrao Peje Government College of Engineering, Ratnagiri	Government	300
+63.	03135	Manjara Charitable Trust's Rajiv Gandhi Institute of Technology, Mumbai	Un-Aided	480
+64.	03139	Vidyalankar Institute of Technology,Wadala, Mumbai	Un-Aided, Autonomous	660
+65.	03143	Thakur Shyamnarayan Engineering College, Mumbai	Un-Aided, Linguistic Minority - Hindi	300
+66.	03146	Jawahar Education Society's Annasaheb Chudaman Patil College of Engineering,Kharghar, Navi Mumbai	Un-Aided	510
+67.	03147	Saraswati Education Society, Yadavrao Tasgaonkar Institute of Engineering & Technology, Karjat	Un-Aided	300
+68.	03148	Mahavir Education Trust's Shah & Anchor Kutchhi Engineering College, Mumbai	Un-Aided, Autonomous, Linguistic Minority - Gujarathi(Jain)	720
+69.	03154	Saraswati Education Society's Saraswati College of Engineering,Kharghar Navi Mumbai	Un-Aided	600
+70.	03175	M.G.M.'s College of Engineering and Technology, Kamothe, Navi Mumbai 	Un-Aided	750
+71.	03176	Thakur College of Engineering and Technology, Kandivali, Mumbai	Un-Aided, Autonomous, Linguistic Minority - Hindi	1230
+72.	03182	Thadomal Shahani Engineering College, Bandra, Mumbai	Un-Aided, Linguistic Minority - Sindhi	540
+73.	03183	Anjuman-I-Islam's M.H. Saboo Siddik College of Engineering, Byculla, Mumbai	Un-Aided, Religious Minority - Muslim	420
+74.	03184	Fr. Conceicao Rodrigues College of Engineering, Bandra,Mumbai	Un-Aided, Autonomous, Religious Minority - Christian	360
+75.	03185	Vivekanand Education Society's Institute of Technology, Chembur, Mumbai	Un-Aided, Autonomous, Linguistic Minority - Sindhi	720
+76.	03187	N.Y.S.S.'s Datta Meghe College of Engineering, Airoli, Navi Mumbai	Un-Aided	960
+77.	03188	Vasantdada Patil Pratishthan's College Of Engineering and Visual Arts, Sion, Mumbai	Un-Aided	420
+78.	03189	Bharati Vidyapeeth College of Engineering, Navi Mumbai	Un-Aided	540
+79.	03190	Terna Engineering College, Nerul, Navi Mumbai	Un-Aided	660
+80.	03192	Smt. Indira Gandhi College of Engineering, Navi Mumbai	Un-Aided	420
+81.	03193	Shivajirao S. Jondhale College of Engineering, Dombivali,Mumbai	Un-Aided	340
+82.	03194	Vidyavardhini's College of Engineering and Technology, Vasai	Un-Aided	720
+83.	03196	Lokmanya Tilak College of Engineering, Kopar Khairane, Navi Mumbai	Un-Aided, Linguistic Minority - Hindi	540
+84.	03197	Agnel Charities FR. C. Rodrigues Institute of Technology, Vashi, Navi Mumbai	Un-Aided, Autonomous, Religious Minority - Christian	420
+85.	03198	Konkan Gyanpeeth College of Engineering, Karjat	Un-Aided	300
+86.	03199	Shri Vile Parle Kelvani Mandal's Dwarkadas J. Sanghvi College of Engineering, Vile Parle,Mumbai	Un-Aided, Autonomous, Linguistic Minority - Gujarathi	1140
+87.	03200	Hope Foundation and research center's Finolex Academy of Management and Technology, Ratnagiri	Un-Aided	420
+88.	03201	Rizvi Education Society's Rizvi College of Engineering, Bandra,Mumbai	Un-Aided, Religious Minority - Muslim	360
+89.	03202	Rajendra Mane College of Engineering & Technology Ambav Deorukh	Un-Aided	180
+90.	03203	Atharva College of Engineering,Malad(West),Mumbai	Un-Aided	480
+91.	03204	St. Francis Institute of Technology,Borivali, Mumbai	Un-Aided, Autonomous, Religious Minority - Christian	660
+92.	03206	S.S.P.M.'s College of Engineering, Kankavli	Un-Aided	330
+93.	03207	Mahatma Education Society's Pillai College of Engineering, New Panvel	Un-Aided, Autonomous, Linguistic Minority - Malyalam	630
+94.	03208	Don Bosco Institute of Technology, Mumbai	Un-Aided, Religious Minority - Roman Catholics	300
+95.	03209	K J Somaiya Institute of Technology	Un-Aided, Autonomous, Linguistic Minority - Gujarathi	480
+96.	03210	Excelsior Education Society's K.C. College of Engineering and Management Studies and Research, Kopri, Thane (E)	Un-Aided, Linguistic Minority - Punjabi	420
+97.	03211	S.I.E.S. Graduate School of Technology, Nerul, Navi Mumbai	Un-Aided, Autonomous, Linguistic Minority - Tamil	600
+98.	03212	Watumull Institute of Engineering & Technology, Ulhasnagar	Un-Aided, Linguistic Minority - Sindhi	210
+99.	03214	Xavier Institute Of Engineering C/O Xavier Technical Institute,Mahim,Mumbai	Un-Aided, Religious Minority - Christian	240
+100.	03215	Bhartiya Vidya Bhavan's Sardar Patel Institute of Technology , Andheri, Mumbai	Un-Aided, Autonomous	480
+101.	03216	Gharda Foundation's Gharda Institute of Technology,Khed, Ratnagiri	Un-Aided	300
+102.	03217	Vighnaharata Trust's Shivajirao S. Jondhale College of Engineering & Technology, Shahapur, Asangaon, Dist Thane	Un-Aided	300
+103.	03218	Aldel Education Trust's St. John College of Engineering & Management, Vevoor, Palghar	Un-Aided, Autonomous, Religious Minority - Christian	420
+104.	03219	Koti Vidya Charitable Trust's Smt. Alamuri Ratnamala Institute of Engineering and Technology, Sapgaon, Tal. Shahapur	Un-Aided, Linguistic Minority - Hindi	420
+105.	03220	Yadavrao Tasgaonkar College of Engineering & Management 	Un-Aided	294
+106.	03221	Vishnu Waman Thakur Charitable Trust's VIVA Institute of Technology, Virar	Un-Aided	420
+107.	03222	Haji Jamaluddin Thim Trust's Theem College of Engineering, At. Villege Betegaon, Boisar	Un-Aided, Religious Minority - Muslim	360
+108.	03223	Mahatma Education Society's Pillai HOC College of Engineering & Technology, Tal. Khalapur. Dist. Raigad	Un-Aided, Linguistic Minority - Malyalam	540
+109.	03224	Leela Education Society, G.V. Acharya Institute of Engineering and Technology, Shelu, Karjat	Un-Aided	270
+110.	03257	Vidya Prasarak Mandal's College of Engineering, Thane	Un-Aided	300
+111.	03277	Pravin Rohidas Patil College of Engineering & Technology	Un-Aided	360
+112.	03351	Bharat College of Engineering, Kanhor, Badlapur(W)	Un-Aided	330
+113.	03353	Dilkap Research Institute Of Engineering and Management Studies, At.Mamdapur, Post- Neral, Tal- Karjat, Mumbai	Un-Aided	390
+114.	03423	Shree L.R. Tiwari College of Engineering, Mira Road, Mumbai	Un-Aided, Linguistic Minority - Hindi	540
+115.	03436	B.R. Harne College of Engineering & Technology, Karav, Tal-Ambernath.	Un-Aided	330
+116.	03439	Anjuman-I-Islam's Kalsekar Technical Campus, Panvel	Un-Aided, Religious Minority - Muslim	480
+117.	03440	Metropolitan Institute of Technology & Management, Sukhalwad, Sindhudurg.	Un-Aided	270
+118.	03445	Vishwatmak Jangli Maharaj Ashram Trust (Kokamthan), Atma Malik Institute Of Technology & Research	Un-Aided	210
+119.	03447	G.M.Vedak Institute of Technology, Tala, Raigad.	Un-Aided	120
+120.	03460	Universal College of Engineering,Kaman Dist. Palghar	Un-Aided, Linguistic Minority - Gujarathi	420
+121.	03462	VPM's Maharshi Parshuram College of Engineering, Velneshwar, Ratnagiri.	Un-Aided	180
+122.	03465	Ideal Institute of Technology, Wada, Dist.Thane	Un-Aided	240
+123.	03467	Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology(i MEET), Khalapur Dist Raigad	Un-Aided	420
+124.	03470	YASHWANTRAO BHONSALE INSTITUTE OF TECHNOLOGY	Un-Aided	300
+125.	03471	New Horizon Institute of Technology & Management, Thane	Un-Aided	360
+126.	03475	A. P. Shah Institute of Technology, Thane	Un-Aided, Religious Minority - Jain	720
+127.	03477	Chhartrapati Shivaji Maharaj Institute of Technology, Shedung, Panvel	Un-Aided	300
+128.	03503	Indala College Of Engineering, Bapsai Tal.Kalyan	Un-Aided	360
+129.	03546	Devi Mahalaxmi College of Engineering and Technology	Un-Aided	300
+130.	04004	Government College of Engineering, Chandrapur	Government	330
+131.	04025	Government College of Engineering, Nagpur	Government	300
+132.	04104	Kavi Kulguru Institute of Technology & Science, Ramtek	Un-Aided	390
+133.	04116	Ankush Shikshan Sanstha's G.H.Raisoni College of Engineering, Nagpur	Un-Aided, Autonomous, Linguistic Minority - Hindi	1140
+134.	04118	Bapurao Deshmukh College of Engineering, Sevagram	Un-Aided	297
+135.	04123	Lokmanya Tilak Jankalyan Shikshan Sanstha, Priyadarshani College of Engineering, Nagpur 	Un-Aided, Autonomous, Linguistic Minority - Hindi	1440
+136.	04133	Sanmarg Shikshan Sanstha's Smt. Radhikatai Pandav College of Engineering, Nagpur	Un-Aided	360
+137.	04134	Guru Nanak Institute of Engineering & Technology,Kalmeshwar, Nagpur	Un-Aided	360
+138.	04135	Amar Seva Mandal's Shree Govindrao Vanjari College of Engineering & Technology, Nagpur	Un-Aided	360
+139.	04136	Lokmanya Tilak Jankalyan Shikshan Sastha, Priyadarshini J. L. College Of Engineering, Nagpur	Un-Aided, Autonomous, Linguistic Minority - Hindi	360
+140.	04137	Sir Shantilal Badjate Charitable Trust's S. B. Jain Institute of technology, Management & Research, Nagpur	Un-Aided, Autonomous, Linguistic Minority - Hindi	540
+141.	04138	Jaidev Education Society, J D College of Engineering and Management, Nagpur 	Un-Aided, Autonomous, Linguistic Minority - Hindi	600
+142.	04139	Samridhi Sarwajanik Charitable Trust, Jhulelal Institute of Technology, Nagpur	Un-Aided, Autonomous, Linguistic Minority - Sindhi	570
+143.	04141	Shriram Gram Vikas Shikshan Sanstha, Vilasrao Deshmukh College of Engineering and Technology, Nagpur	Un-Aided	240
+144.	04142	G H Raisoni College of Engineering & Management, Nagpur	Un-Aided, Autonomous, Linguistic Minority - Hindi	780
+145.	04143	Sanmarg Shikshan Sanstha, Mandukarrao Pandav College of Engineering, Bhandara	Un-Aided	270
+146.	04144	Shri. Sai Shikshan Sanstha, Nagpur Institute of Technology, Nagpur	Un-Aided	360
+147.	04145	Wainganga College of Engineering and Management, Dongargaon, Nagpur	Un-Aided, Autonomous	390
+148.	04147	K.D.K. College of Engineering, Nagpur	Un-Aided, Autonomous	630
+149.	04151	Tulsiramji Gaikwad Patil College of Engineering & Technology, Nagpur	Un-Aided, Autonomous	1020
+150.	04163	Rajiv Gandhi College of Engineering Research & Technology Chandrapur	Un-Aided	510
+151.	04167	Yeshwantrao Chavan College of Engineering,Wanadongri, Nagpur	Un-Aided, Autonomous	1500
+152.	04172	Anjuman College of Engineering & Technology, Nagpur	Un-Aided, Religious Minority - Muslim	420
+153.	04174	ST. Vincent Pallotti College of Engineering & Technology, Nagpur	Un-Aided, Autonomous, Religious Minority - Christian	720
+154.	04175	JMSS Shri Shankarprasad Agnihotri College of Engineering, Wardha	Un-Aided	210
+155.	04177	Priyadarshini Bhagwati College of Engineering, Harpur Nagar, Umred Road,Nagpur	Un-Aided, Linguistic Minority - Hindi	360
+156.	04181	Swaminarayan Siddhanta Institute Of Technology, Nagpur	Un-Aided	300
+157.	04188	Krushi Jivan Vikas Pratishthan, Ballarpur Institute of Technology, Mouza Bamni	Un-Aided	450
+158.	04190	M.D. Yergude Memorial Shikshan Prasarak Mandal's Shri Sai College of Engineering & Technology, Bhadrawati	Un-Aided	270
+159.	04192	Maitraya Education Society, Nagarjuna Institute of Engineering Technology & Management, Nagpur	Un-Aided	300
+160.	04193	K.D.M. Education Society, Vidharbha Institute of Technology,Umred Road ,Nagpur	Un-Aided, Autonomous, Linguistic Minority - Hindi	360
+161.	04196	Gurunanak Educational Society's Gurunanak Institute of Technology, Nagpur	Un-Aided	360
+162.	04197	Jai Mahakali Shikshan Sanstha, Agnihotri College of Engineering, Sindhi(Meghe)	Un-Aided	135
+163.	04285	V M Institute of Engineering and Technology, Dongargaon, Nagpur	Un-Aided	300
+164.	04302	Gondia Education Society's Manoharbhai Patel Institute Of Engineering & Technology, Shahapur, Bhandara 	Un-Aided	114
+165.	04304	Cummins College of Engineering For Women, Sukhali (Gupchup), Tal. Hingna Hingna Nagpur	Un-Aided	240
+166.	04613	Suryodaya College of Engineering & Technology, Nagpur	Un-Aided, Autonomous	420
+167.	04648	R.V. Parankar College of Engineering & Technology, Arvi, Dist Wardha	Un-Aided	180
+168.	04649	Bajaj Institute of Technology, Wardha	Un-Aided, Linguistic Minority - Hindi	300
+169.	04679	Karanjekar College of Engineering & Management, Sakoli	Un-Aided	360
+170.	04703	Somayya Institute of Technology, Chandrapur	Un-Aided	240
+171.	05003	University Institute of Chemical Technology, North Maharashtra University, Jalgaon 	University Department	120
+172.	05004	Government College of Engineering, Jalgaon	Government, Autonomous	360
+173.	05103	Shri Shivaji Vidya Prasarak Sanstha's Late Bapusaheb Shivaji Rao Deore College of Engineering,Dhule	Un-Aided	570
+174.	05104	Shramsadhana Bombay Trust, College of Engineering & Technology, Jalgaon 	Un-Aided	390
+175.	05106	Khandesh College Education Society's College Of Engineering And Management, Jalgaon	Un-Aided	360
+176.	05108	Maratha Vidya Prasarak Samaj's Karmaveer Adv. Baburao Ganpatrao Thakare College Of Engineering, Nashik	Un-Aided, Autonomous	780
+177.	05109	Sandip Foundation, Sandip Institute of Technology and Research Centre, Mahiravani, Nashik	Un-Aided, Autonomous	720
+178.	05121	K. K. Wagh Institute of Engineering Education and Research, Nashik	Un-Aided, Autonomous	1020
+179.	05124	Jagadamba Education Soc. Nashik's S.N.D. College of Engineering & Reserch, Babulgaon 	Un-Aided	480
+180.	05125	Pravara Rural Education Society's Sir Visvesvaraya Institute of Technology, Chincholi Dist. Nashik	Un-Aided	240
+181.	05130	Brahma Valley College of Engineering & Research, Trimbakeshwar, Nashik	Un-Aided	300
+182.	05139	Pravara Rural College of Engineering, Loni, Pravaranagar, Ahmednagar.	Un-Aided	720
+183.	05151	MET Bhujbal Knowledge City MET League's Engineering College, Adgaon, Nashik.	Un-Aided	540
+184.	05152	G H Raisoni College of Engineering and Management, Jalgaon	Un-Aided, Autonomous, Linguistic Minority - Hindi	660
+185.	05160	Sanjivani Rural Education Society's Sanjivani College of Engineering, Kopargaon	Un-Aided, Autonomous	720
+186.	05161	Dr. Vithalrao Vikhe Patil College of Engineering, Ahmednagar	Un-Aided	600
+187.	05162	Amrutvahini Sheti & Shikshan Vikas Sanstha's Amrutvahini College of Engineering, Sangamner	Un-Aided	960
+188.	05164	P.S.G.V.P. Mandal's D.N. Patel College of Engineering, Shahada, Dist. Nandurbar	Un-Aided, Linguistic Minority - Gujar	336
+189.	05168	T.M.E. Society's J.T.Mahajan College of Engineering, Faizpur	Un-Aided	210
+190.	05169	Nagaon Education Society's Gangamai College of Engineering, Nagaon, Tal Dist Dhule	Un-Aided	330
+191.	05170	Hindi Seva Mandal's Shri Sant Gadgebaba College of Engineering & Technology, Bhusawal	Un-Aided, Linguistic Minority - Hindi	360
+192.	05171	Godavari Foundation's Godavari College Of Engineering, Jalgaon	Un-Aided	360
+193.	05172	R. C. Patel Institute of Technology, Shirpur	Un-Aided, Autonomous, Linguistic Minority - Gujarathi	900
+194.	05173	SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, (Jain Gurukul), Neminagar,Chandwad,(Nashik)	Un-Aided, Autonomous, Religious Minority - Jain	390
+195.	05177	Matoshri College of Engineering and Research Centre, Eklahare, Nashik	Un-Aided, Autonomous	600
+196.	05179	Vishwabharati Academy's College of Engineering, Ahmednagar	Un-Aided	330
+197.	05181	Gokhale Education Society's, R.H. Sapat College of Engineering, Management Studies and Research, Nashik	Un-Aided	540
+198.	05182	Kalyani Charitable Trust, Late Gambhirrao Natuba Sapkal College of Engineering, Anjaneri, Trimbakeshwar Road, Nashik	Un-Aided	390
+199.	05184	Amruta Vaishnavi Education & Welfare Trust's Shatabdi Institute of Engineering & Research, Agaskhind Tal. Sinnar	Un-Aided, Religious Minority - Christian	138
+200.	05244	MET's Institute of Technology Polytechnic, Bhujbal Knowledge City, Adgaon Nashik	Un-Aided	180
+201.	05249	Trimurti Shikshan Prasarak Mandal, Trimurti Institute Of Technology, Paladhi Bk, Jalgaon	Un-Aided	120
+202.	05256	Matoshri Education Soceity, Matoshri Asarabai Polytechnic,Nashik	Un-Aided	120
+203.	05263	Matoshri Education Soceity, Matoshri Institute Of Technology, Dhanore, Nashik	Un-Aided	180
+204.	05303	Hon. Shri. Babanrao Pachpute Vichardhara Trust, Group of Institutions (Integrated Campus)-Parikrama, Kashti Shrigondha, 	Un-Aided	360
+205.	05322	Jamia Institute Of Engineering And Management Studies, Akkalkuwa	Un-Aided, Religious Minority - Muslim	120
+206.	05330	PUNE VIDYARTHI GRIHAS COLLEGE OF ENGINEERING & SHRIKRUSHNA S. DHAMANKAR INSTITUTE OF MANAGEMENT, NASHIK	Un-Aided	300
+207.	05331	Sandip Foundation's, Sandip Institute of Engineering & Management, Nashik	Un-Aided	360
+208.	05365	Vardhaman Education & Welfare Society, Ahinsa Institute of Technology, Post. Dondaicha, Dhule	Un-Aided, Religious Minority - Jain	180
+209.	05370	Kedareshwar Gramin Vikas Pratishthan, Samajbhushan Eknathrao Dhakane College, of Engineering, Shevgaon	Un-Aided	300
+210.	05380	Adsul's Technical Campus, Chas Dist. Ahmednagar	Un-Aided	540
+211.	05381	Shri. Jaykumar Rawal Institute of Technology, Dondaicha.	Un-Aided	300
+212.	05382	Ahmednagar Jilha Maratha Vidya Prasarak Samajache, Shri. Chhatrapati Shivaji Maharaj College of Engineering, Nepti	Un-Aided	300
+213.	05390	K.V.N. Naik S. P. Sansth's Loknete Gopinathji Munde Institute of Engineering Education & Research, Nashik.	Un-Aided	330
+214.	05396	College of Engineering and Technology ,North Maharashtra Knowledge City, Jalgaon	Un-Aided	120
+215.	05399	Sanghavi College of Engineering, Varvandi, Nashik.	Un-Aided	360
+216.	05401	Jawahar Education Society's Institute of Technology, Management & Research, Nashik.	Un-Aided	466
+217.	05408	Vidya Niketan College of Engineering, Bota Sangamner	Un-Aided	270
+218.	05409	Rajiv Gandhi College of Engineering, At Post Karjule Hariya Tal.Parner, Dist.Ahmednagar	Un-Aided	360
+219.	05411	Maulana Mukhtar Ahmad Nadvi Technical Campus, Malegaon.	Un-Aided, Religious Minority - Muslim	300
+220.	05418	Guru Gobind Singh College of Engineering & Research Centre, Nashik.	Un-Aided	420
+221.	05433	R.C. Patel College of Engineering and Polytechnic, Shirpur	Un-Aided, Linguistic Minority - Gujarathi	240
+222.	05449	Shri Vile Parle Kelavani Mandal's Institute of Technology, Dhule	Un-Aided, Linguistic Minority - Gujarathi	600
+223.	05497	P.G. College of Engineering & Technology, Nandurbar	Un-Aided	240
+224.	05509	Shri Swami Samarth Institute of Management and Technology, Malwadi-Bota	Un-Aided	240
+225.	05513	MKD Institute of Technology, Nadurbar	Un-Aided	180
+226.	05545	Shri. Vile Parle Kelwani Mandal's College of Engineering, Shirpur	Un-Aided, Linguistic Minority - Gujarathi	360
+227.	06004	Government College of Engineering & Research, Avasari Khurd	Government	360
+228.	06005	Government College of Engineering, Karad	Government, Autonomous	300
+229.	06007	Walchand College of Engineering, Sangli	Government-Aided, Autonomous	660
+230.	06028	Department of Technology, Shivaji University, Kolhapur	University Department	360
+231.	06036	Government College of Engineering, Kolhapur	Government	300
+232.	06122	TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune	Un-Aided	480
+233.	06138	Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune	Un-Aided	420
+234.	06139	Progressive Education Society's Modern College of Engineering, Pune	Un-Aided, Autonomous	960
+235.	06141	Jaywant Shikshan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune	Un-Aided, Autonomous	840
+236.	06144	Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune	Un-Aided	480
+237.	06145	JSPM'S Jaywantrao Sawant College of Engineering,Pune	Un-Aided	600
+238.	06146	MIT Academy of Engineering,Alandi, Pune	Un-Aided, Autonomous	1020
+239.	06149	Siddhant College of Engineering, A/p Sudumbare, Tal.Maval, Dist-Pune	Un-Aided, Linguistic Minority - Hindi	600
+240.	06155	G.H.Raisoni College of Engineering & Management, Wagholi, Pune	Un-Aided, Autonomous, Linguistic Minority - Hindi	1050
+241.	06156	Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune	Un-Aided, Autonomous	660
+242.	06175	Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune	Un-Aided, Autonomous	960
+243.	06177	Sinhgad College of Engineering, Vadgaon (BK), Pune	Un-Aided	1140
+244.	06178	Sinhgad Technical Education Society's Smt. Kashibai Navale College of Engineering,Vadgaon,Pune	Un-Aided	1050
+245.	06179	Indira College of Engineering & Management, Pune	Un-Aided, Autonomous	360
+246.	06182	Sinhgad Technical Education Society, Sinhgad Institute of Technology and Science, Narhe (Ambegaon)	Un-Aided	450
+247.	06183	Al-Ameen Educational and Medical Foundation, College of Engineering, Koregaon, Bhima	Un-Aided, Religious Minority - Muslim	138
+248.	06184	K. J.'s Educational Institut Trinity College of Engineering and Research, Pisoli, Haveli	Un-Aided	420
+249.	06185	Sinhgad Institute of Technology	Un-Aided	630
+250.	06187	Sinhgad Academy of Engineering, Kondhwa (BK) Kondhwa-Saswad Road, Pune	Un-Aided	600
+251.	06203	Marathwada Mitra Mandal's Institute of Technology, Lohgaon, Pune	Un-Aided	480
+252.	06206	Pune District Education Association's College of Engineering, Manjari(Bk), Hadapsar, Pune	Un-Aided	420
+253.	06207	Dr. D. Y. Patil Unitech Society's Dr. D. Y. Patil Institute of Technology, Pimpri, Pune	Un-Aided	1110
+254.	06214	K. E. Society's Rajarambapu Institute of Technology, Walwa, Sangli	Un-Aided, Autonomous	930
+255.	06217	Shri. Balasaheb Mane Shikshan Prasarak Mandal's, Ashokrao Mane Group of Institutions	Un-Aided	600
+256.	06219	KSGBS's Bharat- Ratna Indira Gandhi College of Engineering, Kegaon, Solapur	Un-Aided	342
+257.	06220	Shri Vithal Education and Research Institute's College of Engineering, Pandharpur	Un-Aided, Autonomous	540
+258.	06222	Dattajirao Kadam Technical Education Society's Textile & Engineering Institute, Ichalkaranji.	Un-Aided, Autonomous	810
+259.	06223	Pradnya Niketan Education Society's Nagesh Karajagi Orchid College of Engineering & Technology, Solapur	Un-Aided, Autonomous	540
+260.	06250	D.Y. Patil College of Engineering and Technology, Kolhapur	Un-Aided, Autonomous	1140
+261.	06265	Walchand Institute of Technology, Solapur	Un-Aided, Autonomous, Religious Minority - Jain	600
+262.	06267	Kolhapur Institute of Technology's College of Engineering(Autonomous), Kolhapur	Un-Aided, Autonomous	1140
+263.	06268	Tatyasaheb Kore Institute of Engineering and Technology, Warananagar	Un-Aided, Autonomous	660
+264.	06269	Shetkari Shikshan Mandal's Pad. Vasantraodada Patil Institute of Technology, Budhgaon, Sangli	Un-Aided	630
+265.	06270	Rayat Shikshan Sanstha's Karmaveer Bhaurao Patil College of Engineering, Satara	Un-Aided	420
+266.	06271	Pune Institute of Computer Technology	Un-Aided, Autonomous	780
+267.	06272	Dr. D. Y. Patil Pratishthan's D.Y.Patil College of Engineering Akurdi, Pune	Un-Aided, Autonomous	1080
+268.	06273	Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune	Un-Aided, Autonomous	3660
+269.	06274	Pune Vidyarthi Griha's College of Engineering and Technology and G K Pate(Wani) Institute of Management, Pune	Un-Aided	540
+270.	06275	Shivnagar Vidya Prasarak Mandal's College of Engineering, Malegaon-Baramati	Un-Aided	450
+271.	06276	MKSSS's Cummins College of Engineering for Women, Karvenagar,Pune	Un-Aided, Autonomous	600
+272.	06277	Dr. J. J. Magdum Charitable Trust's Dr. J.J. Magdum College of Engineering, Jaysingpur	Un-Aided, Autonomous	360
+273.	06278	All India Shri Shivaji Memorial Society's College of Engineering, Pune	Un-Aided	840
+274.	06281	Modern Education Society's Wadia College of Engineering, Pune	Un-Aided	540
+275.	06282	All India Shri Shivaji Memorial Society's Institute of Information Technology,Pune	Un-Aided, Autonomous	600
+276.	06283	Annasaheb Dange College of Engineering and Technology, Ashta, Sangli	Un-Aided, Autonomous	690
+277.	06284	Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering & Technology, Baramati Dist.Pune	Un-Aided, Autonomous	540
+278.	06285	Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune	Un-Aided	300
+279.	06288	Bharati Vidyapeeth's College of Engineering, Kolhapur	Un-Aided	360
+280.	06293	Kai Amdar Bramhadevdada Mane Shikshan & Samajik Prathistan's Bramhadevdada Mane Institute of Technology, Solapur	Un-Aided	300
+281.	06298	Zeal Education Society's Zeal College of Engineering & Reserch, Narhe, Pune	Un-Aided, Autonomous	1500
+282.	06303	Dr. Ashok Gujar Technical Institute's Dr. Daulatrao Aher College of Engineering, Karad	Un-Aided	300
+283.	06304	Loknete Hanumantrao Charitable Trust's Adarsh Institute of Technology and Research Centre, Vita,Sangli	Un-Aided	300
+284.	06305	Late Narayandas Bhawandas Chhabada Institute of Engineering & Technology, Satara	Un-Aided	210
+285.	06307	Dhole Patil Education Society, Dhole Patil College of Engineering, Wagholi, Tal. Haveli	Un-Aided	255
+286.	06308	Shanti Education Society, A.G. Patil Institute of Technology, Soregaon, Solapur(North)	Un-Aided	240
+287.	06310	Nutan Maharashtra Vidya Prasarak Mandal, Nutan Maharashtra Institute of Engineering &Technology, Talegaon station, Pune	Un-Aided	960
+288.	06311	Jayawant Shikshan Prasarak Mandal, Bhivarabai Sawant Institute of Technology & Research, Wagholi	Un-Aided	540
+289.	06313	Jaywant College of Engineering & Polytechnic , Kille Macchindragad Tal. Walva District- Sangali	Un-Aided	270
+290.	06315	Sanjeevan Group of Institutions	Un-Aided	360
+291.	06317	Sharad Institute of Technology College of Engineering, Yadrav(Ichalkaranji)	Un-Aided, Autonomous	690
+292.	06318	Abhinav Education Society's College of Engineering and Technology (Degree), Wadwadi	Un-Aided	240
+293.	06319	Shahajirao Patil Vikas Pratishthan, S.B.Patil College of Engineering, Vangali, Tal. Indapur	Un-Aided	390
+294.	06320	K.J.'s Educational Institute's K.J.College of Engineering & Management Research, Pisoli	Un-Aided	570
+295.	06321	Vidya Vikas Pratishthan Institute of Engineering and Technology, Solapur	Un-Aided	300
+296.	06322	Shree Gajanan Maharaj Shikshan Prasarak Manda'l Sharadchandra Pawar College of Engineering, Dumbarwadi	Un-Aided	150
+297.	06324	Rajgad Dnyanpeeth's Shri Chhatrapati Shivajiraje College of Engineering, Bhor	Un-Aided	360
+298.	06325	Alard Charitable Trust's Alard College of Engineering and Management, Pune	Un-Aided, Linguistic Minority - Hindi	480
+299.	06326	Karmayogi Institute of Technology	Un-Aided	240
+300.	06402	NEW INSTITUTE OF TECHNOLOGY,KOLHAPUR 	Un-Aided	240
+301.	06444	Shriram Institute Of Engineering & Technology, (Poly), Paniv	Un-Aided	180
+302.	06466	Shree Santkrupa Shikshan Sanstha, Shree Santkrupa Institute Of Engineering & Technology, Karad	Un-Aided	180
+303.	06468	Swami Vivekananda Shikshan Sanstha, Dr. Bapuji Salunkhe Institute Of Engineering & Technology,Kolhapur	Un-Aided	360
+304.	06545	Samarth Education Trust's Arvind Gavali College Of Engineering Panwalewadi, Varye,Satara.	Un-Aided	360
+305.	06609	Jaihind College Of Engineering,Kuran 	Un-Aided	360
+306.	06622	ISBM College Of Engineering Pune	Un-Aided, Linguistic Minority - Hindi	630
+307.	06625	Universal College of Engineering & Research, Sasewadi	Un-Aided	91
+308.	06628	Dattakala Group Of Institutions, Swami - Chincholi Tal. Daund Dist. Pune	Un-Aided	360
+309.	06632	Navsahyadri Education Society's Group of Institutions	Un-Aided	480
+310.	06634	KJEI's Trinity Academy of Engineering, Yewalewadi, Pune	Un-Aided	360
+311.	06635	Samarth College of Engineering and Management	Un-Aided	390
+312.	06640	N. B. Navale Sinhgad College of Engineering, Kegaon, solapur	Un-Aided	360
+313.	06643	S K N Sinhgad College of Engineering, Korti Tal. Pandharpur Dist Solapur	Un-Aided	360
+314.	06644	Shri. Ambabai Talim Sanstha's Sanjay Bhokare Group of Institutes, Miraj	Un-Aided	300
+315.	06649	TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune	Un-Aided	420
+316.	06714	APPASAHEB ALIAS SA.RE.PATIL INSTITUTE OF TECHNOLOGY, Dattanagar Tal-Shirol, Dist Kolhapur	Un-Aided	240
+317.	06732	Ajeenkya DY Patil School of Engineering, Lohegaon, Pune	Un-Aided	840
+318.	06754	International Institute of Information Technology (I²IT), Pune.	Un-Aided	360
+319.	06755	JSPM Narhe Technical Campus, Pune.	Un-Aided	480
+320.	06756	Fabtech Technical Campus College of Engineering and Research, Sangola	Un-Aided	360
+321.	06757	Yashoda Technical Campus, Wadhe, Satara.	Un-Aided	630
+322.	06758	Sahyadri Valley College of Engineering & Technology, Rajuri, Pune.	Un-Aided	240
+323.	06759	Shree Ramchandra College of Engineering, Lonikand,Pune	Un-Aided	210
+324.	06762	Nanasaheb Mahadik College of Engineering,Walwa, Sangli.	Un-Aided	315
+325.	06766	Phaltan Education Society's College of Engineering Thakurki Tal- Phaltan Dist-Satara 	Un-Aided	300
+326.	06767	Suman Ramesh Tulsiani Technical Campus Faculty of Engineering, Kamshet,Pune.	Un-Aided	360
+327.	06768	P.K. Technical Campus, Pune.	Un-Aided	120
+328.	06769	Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.	Un-Aided	480
+329.	06770	SKN Sinhgad Institute of Technology & Science, Kusgaon(BK),Pune.	Un-Aided	210
+330.	06771	Flora Institute of Technology, Khopi, Near Khed Shivapur Toll Plaza, Pune	Un-Aided	150
+331.	06772	NBN Sinhgad Technical Institutes Campus, Pune	Un-Aided	450
+332.	06780	D.Y.Patil Education Society's,D.Y.Patil Technical Campus, Faculty of Engineering & Faculty of Management,Talsande,Kolhapur.	Un-Aided, Autonomous	360
+333.	06781	Bhagwant Institute of Technology, Barshi	Un-Aided	300
+334.	06782	Sahakar Maharshee Shankarrao Mohite Patil Institute of Technology & Research, Akluj	Un-Aided	330
+335.	06794	Anantrao Pawar College of Engineering & Research, Pune	Un-Aided	480
+336.	06795	Shri.Someshwar Shikshan Prasarak Mandal, Sharadchandra Pawar College of Engineering & Technology, Someshwar Nagar	Un-Aided	210
+337.	06796	Bharati Vidyapeeth's College of Engineering,Lavale, Pune	Un-Aided	300
+338.	06797	Dnyanshree Institute Engineering and Technology, Satara	Un-Aided	240
+339.	06799	Shivganga Charitable Trust, Sangli Vishveshwarya Technical Campus, Faculty of Diploma Engineering, Patgaon, Miraj	Un-Aided	150
+340.	06803	Sant Gajanan Maharaj College of Engineering, Gadhinglaj	Un-Aided	300
+341.	06808	Keystone School of Engineering, Pune	Un-Aided	354
+342.	06811	Sanjay Ghodawat Institute	Un-Aided	300
+343.	06815	Vidya Prasarini Sabha's College of Engineering & Technology, Lonavala	Un-Aided	120
+344.	06822	Pimpri Chinchwad Education Trust's Pimpri Chinchwad College Of Engineering And Research, Ravet	Un-Aided	600
+345.	06834	Dr.D.Y.Patil College Of Engineering & Innovation,Talegaon	Un-Aided	240
+346.	06839	Dr. D Y Patil Pratishthan's College of Engineering, Kolhapur	Un-Aided	360
+347.	06878	Dr. A. D. Shinde College Of Engineering, Tal.Gadhinglaj, Kolhapur	Un-Aided	390
+348.	06901	MAEER's MIT College of Railway Engineering and Research, Jamgaon, Barshi	Un-Aided	300
+349.	06938	Shree Siddheshwar Women's College Of Engineering Solapur.	Un-Aided	360
+350.	06991	Dr. D.Y. Patil Technical Campus, Varale, Talegaon, Pune	Un-Aided	600
+351.	14005	Laxminarayan Innovation Technological University, Nagpur	University, Autonomous	150
+352.	16006	COEP Technological University 	University, Autonomous	863
+353.	16121	Shri. Anandrao Abitkar College of Engineering, Pal 	Un-Aided	360
+354.	16126	Tatyasaheb Kore Institute of Engineering and Technology, Yelur	Un-Aided, Autonomous	360

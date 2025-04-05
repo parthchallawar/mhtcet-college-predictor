@@ -1,0 +1,100 @@
+D Government of Maharashtra
+i State Common Entrance Test Cell
+r Cut Off List of All India Seats CAP Round I for Admission to First Year of Four Year Full Time Degree Courses in Engineering and Technology for the Academic Year 2022-23
+1002 - Government College of Engineering, Amravati
+100219110 - Civil Engineering
+Status: Government Autonomous
+State Level
+Stage GOPENS GSCS GSTS GVJS GNT1S GNT2S GNT3S GOBCS LOPENS LSCS LSTS LVJS LNT2S LOBCS DEFOPENS TFWS DEFROBCS EWS
+I 40678 55830 86718 45691 41586 51711 49334 46967 30535 50420 79098 40679 72814 41709 88218 19635 98060 52672
+(77.8495773) (68.2985361) (43.3167495) (74.5106403) (77.0666918) (70.9263207) (72.5765063) (74.0962113) (83.4045178) (71.6451268) (50.9996691) (77.8495773) (55.8902921) (77.0666918) (42.7946749) (89.4077610) (32.4992712) (70.2135829)
+100224210 - Computer Science and Engineering
+Status: Government Autonomous
+State Level
+Stage GOPENS GSCS GSTS GVJS GNT1S GNT2S GNT3S GOBCS LOPENS LSCS LSTS LVJS LNT1S LNT2S LOBCS PWDOPENS DEFOPENS TFWS PWDROBC DEFRSCS EWS
+S
+I 6412 9920 41139 17056 7766 9524 10818 6904 4603 8998 32400 15893 7378 14019 6218 79110 15876 4763 79305 23301 7872
+(96.4453291) (94.6469248) (77.1458362) (90.8078665) (95.7384206) (94.8196814) (94.1471246) (96.1905225) (97.3751017) (95.1073753) (82.4244430) (91.4761117) (95.9513400) (92.4735769) (96.5320687) (50.9996691) (91.4761117) (97.3134328) (50.8162490) (87.4346052) (95.7059576)
+100224610 - Information Technology
+Status: Government Autonomous
+State Level
+Stage GOPENS GSCS GSTS GVJS GNT1S GNT2S GNT3S GOBCS LOPENS LSCS LSTS LNT1S LNT2S LOBCS PWDOPENS DEFOPENS TFWS PWDROBC DEFROBCS EWS
+S
+I 8456 13932 44445 16510 9228 9942 20505 8735 8400 14435 31172 21744 17754 9179 80636 24544 7435 93664 28236 9683
+(95.3393686) (92.5142196) (75.4846987) (91.1038771) (94.9538024) (94.6205981) (88.9823699) (95.2545256) (95.3875689) (92.2302228) (83.1650789) (88.2761636) (90.4382847) (94.9790794) (49.0525702) (86.8356112) (95.9209717) (37.5478565) (84.8614274) (94.7015776)
+100229310 - Electrical Engineering
+Status: Government Autonomous
+State Level
+Stage GOPENS GSCS GSTS GVJS GNT1S GNT2S GNT3S GOBCS LOPENS LSCS LSTS LVJS LNT2S LOBCS PWDOPENS DEFOPENS TFWS DEFROBCS EWS
+I 26610 35923 80097 48372 27089 36467 39928 30649 26549 29692 48168 40479 28122 25800 54377 78548 18803 110745 35192
+(85.6827453) (80.5336015) (49.5565410) (72.8897104) (85.4043578) (80.2656546) (78.1473584) (83.3246679) (85.6913808) (84.0382056) (72.8974176) (77.9458986) (84.8685155) (86.1713847) (69.1685966) (51.2359011) (89.9192371) (18.3037194) (80.8718313)
+Cut Off Indicates All India Merit No.; Figures in bracket Indicates JEE(Main) Score/MHT-CET Percentile.; AI to AI-All India Seats Allotted to All India Candidature Candidates.
+1
+D Government of Maharashtra
+i State Common Entrance Test Cell
+r Cut Off List of All India Seats CAP Round I for Admission to First Year of Four Year Full Time Degree Courses in Engineering and Technology for the Academic Year 2022-23
+1002 - Government College of Engineering, Amravati
+100237210 - Electronics and Telecommunication Engg
+Status: Government Autonomous
+State Level
+Stage GOPENS GSCS GSTS GVJS GNT1S GNT2S GNT3S GOBCS LOPENS LSCS LSTS LVJS LNT1S LNT2S LOBCS PWDOPENS DEFOPENS TFWS PWDROBC DEFROBCS EWS
+S
+I 15492 22933 64864 28519 20509 19466 26282 15967 14248 22745 102922 44740 20321 27605 13964 100795 30393 11631 104414 41669 16352
+(91.6047864) (87.6299679) (61.8814494) (84.6390824) (88.9823699) (89.5056923) (85.8374792) (91.4536974) (92.3335702) (87.7973797) (27.3337429) (75.3508645) (89.0594645) (85.0225065) (92.4845102) (29.3528763) (83.4474115) (93.7141189) (25.8381109) (77.0666918) (91.1864731)
+100246610 - Instrumentation Engineering
+Status: Government Autonomous
+State Level
+Stage GOPENS GSCS GSTS GNT2S GOBCS LOPENS LSCS LOBCS DEFOPENS TFWS EWS
+I 49414 65659 112169 74875 52428 46383 64077 48202 113852 30615 51690
+(72.5765063) (61.4673542) (16.5730741) (54.1664697) (70.7220669) (74.2012741) (62.3799839) (72.8974176) (14.2210761) (83.3246679) (70.9370842)
+100261210 - Mechanical Engineering
+Status: Government Autonomous
+State Level
+Stage GOPENS GSCS GSTS GVJS GNT1S GNT2S GNT3S GOBCS LOPENS LSCS LSTS LNT1S LNT2S LOBCS DEFOPENS TFWS EWS
+I 34421 42806 109621 48115 47757 43267 63985 39664 40195 61058 97556 81559 54000 42993 64866 21335 49115
+(81.4005843) (76.4889836) (19.4998540) (72.8974176) (73.2440997) (75.8471965) (62.3799839) (78.2814198) (78.0555027) (64.4979119) (33.0830640) (48.7700838) (69.3871747) (76.4889836) (61.8814494) (88.4908068) (72.6414198)
+Cut Off Indicates All India Merit No.; Figures in bracket Indicates JEE(Main) Score/MHT-CET Percentile.; AI to AI-All India Seats Allotted to All India Candidature Candidates.
+1
+D Government of Maharashtra
+i State Common Entrance Test Cell
+r Cut Off List of All India Seats CAP Round I for Admission to First Year of Four Year Full Time Degree Courses in Engineering and Technology for the Academic Year 2022-23
+1005 - Sant Gadge Baba Amravati University,Amravati
+100550310 - Food Technology
+Status: University Department
+Home University Seats Allotted to Home University Candidates
+Stage GOPENH GSCH GVJH GNT1H GOBCH LOPENH LOBCH
+I 56459 89272 64230 100270 56723 24039 46268
+(67.7143135) (42.0206383) (62.0823842) (30.5619889) (67.4824177) (87.0274997) (74.2260244)
+Other Than Home University Seats Allotted to Other Than Home University Candidates
+Stage GOPENO GSCO GOBCO
+I 41991 46499 57201
+(76.9900203) (74.2012741) (67.2875491)
+State Level
+Stage TFWS EWS
+I 34335 107964
+(81.4109415) (21.8821184)
+Cut Off Indicates All India Merit No.; Figures in bracket Indicates JEE(Main) Score/MHT-CET Percentile.; AI to AI-All India Seats Allotted to All India Candidature Candidates.
+1
+D Government of Maharashtra
+i State Common Entrance Test Cell
+r Cut Off List of All India Seats CAP Round I for Admission to First Year of Four Year Full Time Degree Courses in Engineering and Technology for the Academic Year 2022-23
+1005 - Sant Gadge Baba Amravati University,Amravati
+100551710 - Oil and Paints Technology
+Status: University Department
+Home University Seats Allotted to Home University Candidates
+Stage LOPENH LOBCH
+I 77244 84752
+(52.2301039) (45.9187639)
+Home University Seats Allotted to Other Than Home University Candidates
+Stage GOPENH
+I 113264
+(14.9316558)
+Other Than Home University Seats Allotted to Other Than Home University Candidates
+Stage GOPENO
+I 108178
+(21.5067519)
+State Level
+Stage TFWS EWS
+I 48609 96766
+(72.7702415) (34.1210946)
+Cut Off Indicates All India Merit No.; Figures in bracket Indicates JEE(Main) Score/MHT-CET Percentile.; AI to AI-All India Seats Allotted to All India Candidature Candidates.
