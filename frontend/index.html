@@ -60,6 +60,16 @@
       </details>
     </div>
 
+    <div class="mb-4 flex items-center gap-4">
+      <input
+        type="text"
+        id="searchCollege"
+        placeholder="Search College Name / Region"
+        class="p-2 rounded border border-gray-300 w-full sm:w-96 bg-white"
+        oninput="applyFilters()"
+      />
+    </div>
+
     <!-- Apply Button -->
     <div class="mb-6 flex justify-center">
       <button onclick="applyFilters()" class="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700">
@@ -170,6 +180,7 @@
     let filteredData = [];
 
     function applyFilters() {
+
       const selectedCourses = getSelectedCourses();
       const percentile = parseFloat(document.getElementById('filterPercentile').value);
       const selectedCategories = getSelectedValues('filterCategory');
@@ -178,6 +189,8 @@
       const selectedYear = document.getElementById('filterYear').value;
       const selectedRound = document.getElementById('filterRound').value;
 
+
+      const searchText = document.getElementById('searchCollege').value.toLowerCase();
       filteredData = originalData.filter(row => {
         const seatTypeLower = row.seat_type.toLowerCase();
         const courseMatch = selectedCourses.length === 0 || selectedCourses.includes(row.course);
@@ -189,8 +202,8 @@
         const selectRound = document.getElementById('filterRound').value;
         const yearMatch = selectYear === "" || row.academic_year == selectYear;
         const roundMatch = selectRound === "" || row.cap_round == selectRound;
-        
-        return courseMatch && percentileMatch && categoryMatch && genderMatch && modifierMatch && yearMatch && roundMatch;
+       const collegeMatch = row.college_name.toLowerCase().includes(searchText);       
+        return courseMatch && percentileMatch && categoryMatch && genderMatch && modifierMatch && yearMatch && roundMatch && collegeMatch;
       });
       
       function changeRowsPerPage() {
