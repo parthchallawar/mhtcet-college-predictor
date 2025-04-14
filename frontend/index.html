@@ -67,6 +67,21 @@
       </button>
     </div>
 
+  <div class="flex justify-between items-center mb-4">
+    <div>
+      <label for="rowsPerPage" class="mr-2 font-medium text-gray-700">Max entries:</label>
+      <select id="rowsPerPage" onchange="changeRowsPerPage()" class="p-1 border rounded">
+        <option value="10">10</option>
+        <option value="25" selected>25</option>
+        <option value="50">50</option>
+        <option value="100">100</option>
+      </select>
+    </div>
+    <button onclick="exportCSV()" class="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">
+      Export CSV
+    </button>
+  </div>
+
     <!-- Table -->
     <div class="overflow-auto bg-white rounded-lg shadow">
       <table class="min-w-full text-sm text-gray-700">
@@ -95,7 +110,8 @@
   <script>
     let originalData = [];
     let currentPage = 1;
-    const rowsPerPage = 25;
+    let rowsPerPage = 25;
+    
 
     fetch('admission_data.json')
       .then(response => response.json())
@@ -176,6 +192,13 @@
         
         return courseMatch && percentileMatch && categoryMatch && genderMatch && modifierMatch && yearMatch && roundMatch;
       });
+      
+      function changeRowsPerPage() {
+        const select = document.getElementById('rowsPerPage');
+        rowsPerPage = parseInt(select.value);
+        currentPage = 1;
+        renderTable(filteredData);
+      }
 
       filteredData.sort((a, b) => b.percentile > a.percentile);
 
@@ -225,6 +248,38 @@
         renderTable(filteredData);
       }
     }
+
+    function exportCSV() {
+      if (filteredData.length === 0) {
+        alert("No data to export.");
+        return;
+      }
+
+      const headers = ["College", "Course", "Seat Type", "Merit No.", "Percentile", "CAP Round", "Year"];
+      const csvRows = [
+        headers.join(","),
+        ...filteredData.map(row =>
+          [
+            `"${row.college_name}"`,
+            `"${row.course}"`,
+            `"${row.seat_type}"`,
+            row.merit_number,
+            row.percentile.toFixed(2),
+            row.cap_round,
+            row.academic_year
+          ].join(",")
+        )
+      ];
+
+      const blob = new Blob([csvRows.join("\n")], { type: 'text/csv' });
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = 'admission_data.csv';
+      link.click();
+      URL.revokeObjectURL(url);
+    }
+    
   </script>
 </body>
 </html>
