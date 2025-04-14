@@ -30,6 +30,20 @@
       </details>
 
       <details class="p-2 border border-gray-300 rounded bg-white">
+        <summary class="cursor-pointer font-medium mb-2">Academic Year</summary>
+        <select id="filterYear" class="w-full p-2 border border-gray-300 rounded mt-2">
+          <option value="">All</option>
+        </select>
+      </details>
+
+      <details class="p-2 border border-gray-300 rounded bg-white">
+        <summary class="cursor-pointer font-medium mb-2">CAP Round</summary>
+        <select id="filterRound" class="w-full p-2 border border-gray-300 rounded mt-2">
+          <option value="">All</option>
+        </select>
+      </details>
+
+      <details class="p-2 border border-gray-300 rounded bg-white">
         <summary class="cursor-pointer font-medium mb-2">Gender</summary>
         <select id="filterGender" multiple class="w-full p-2 border border-gray-300 rounded mt-2">
           <option value="G">Male</option>
@@ -88,7 +102,26 @@
       .then(data => {
         originalData = data;
         populateCheckboxes();
-        populateDropdowns();
+
+        const yearSelect = document.getElementById('filterYear');
+        const years = [...new Set(originalData.map(row => row.academic_year))].sort();
+        console.log(years)
+        years.forEach(year => {
+          const option = document.createElement('option');
+          option.value = year;
+          option.textContent = year;
+          yearSelect.appendChild(option);
+        });
+
+        const roundSelect = document.getElementById('filterRound');
+        const rounds = [...new Set(originalData.map(row => row.cap_round))].sort();
+        rounds.forEach(round => {
+          const option = document.createElement('option');
+          option.value = round;
+          option.textContent = round;
+          roundSelect.appendChild(option);
+        });
+
         applyFilters();
       });
 
@@ -108,17 +141,6 @@
       });
     }
 
-    function populateDropdowns() {
-      const seatSelect = document.getElementById('filterSeat');
-      const seatTypes = [...new Set(originalData.map(row => row.seat_type))];
-      seatTypes.forEach(seat => {
-        const option = document.createElement('option');
-        option.value = seat;
-        option.textContent = seat;
-        seatSelect.appendChild(option);
-      });
-    }
-
     function getSelectedValues(id) {
       const select = document.getElementById(id);
       return Array.from(select.selectedOptions).map(option => option.value.toLowerCase());
@@ -133,23 +155,26 @@
 
     function applyFilters() {
       const selectedCourses = getSelectedCourses();
-      const selectedSeats = getSelectedValues('filterSeat');
       const percentile = parseFloat(document.getElementById('filterPercentile').value);
       const selectedCategories = getSelectedValues('filterCategory');
       const selectedGenders = getSelectedValues('filterGender');
       const selectedModifiers = getSelectedValues('filterModifier');
+      const selectedYear = document.getElementById('filterYear').value;
+      const selectedRound = document.getElementById('filterRound').value;
 
       filteredData = originalData.filter(row => {
         const seatTypeLower = row.seat_type.toLowerCase();
         const courseMatch = selectedCourses.length === 0 || selectedCourses.includes(row.course);
-        const seatMatch = selectedSeats.length === 0 || selectedSeats.some(seat => seatTypeLower.includes(seat));
         const percentileMatch = isNaN(percentile) || row.percentile <= percentile;
         const categoryMatch = selectedCategories.length === 0 || selectedCategories.some(cat => seatTypeLower.includes(cat));
         const genderMatch = selectedGenders.length === 0 || selectedGenders.some(g => seatTypeLower.includes(g));
         const modifierMatch = selectedModifiers.length === 0 || selectedModifiers.some(mod => seatTypeLower.includes(mod));
-
-        console.log(courseMatch, percentileMatch, categoryMatch)
-        return courseMatch && seatMatch && percentileMatch && categoryMatch && genderMatch && modifierMatch;
+        const selectYear = document.getElementById('filterYear').value;
+        const selectRound = document.getElementById('filterRound').value;
+        const yearMatch = selectYear === "" || row.academic_year == selectYear;
+        const roundMatch = selectRound === "" || row.cap_round == selectRound;
+        
+        return courseMatch && percentileMatch && categoryMatch && genderMatch && modifierMatch && yearMatch && roundMatch;
       });
 
       filteredData.sort((a, b) => b.percentile > a.percentile);
