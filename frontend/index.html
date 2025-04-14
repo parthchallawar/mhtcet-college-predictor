@@ -1,28 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Admission Data Viewer</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 min-h-screen p-6">
   <div class="max-w-7xl mx-auto">
-    <h1 class="text-3xl font-bold text-gray-800 mb-6">Admission Data </h1>
+    <h1 class="text-3xl font-bold text-gray-800 mb-6">Admission Data</h1>
 
     <!-- Filters -->
-    <div class="grid grid-cols-1 md:grid-cols-4 gap-4 mb-6">
+    <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mb-4">
       <details class="p-2 border border-gray-300 rounded bg-white overflow-auto max-h-48">
         <summary class="cursor-pointer font-medium mb-2">Select Courses</summary>
         <div id="courseCheckboxContainer"></div>
       </details>
 
-      <details class="p-2 border border-gray-300 rounded bg-white">
-        <summary class="cursor-pointer font-medium mb-2">Seat Types</summary>
-        <select id="filterSeat" multiple class="w-full p-2 border border-gray-300 rounded mt-2"></select>
-      </details>
-
-      <input type="number" id="filterPercentile" placeholder="Min Percentile" class="p-2 rounded border border-gray-300">
+      <input type="number" id="filterPercentile" placeholder="Min Percentile" class="p-2 rounded border border-gray-300 bg-white"/>
 
       <details class="p-2 border border-gray-300 rounded bg-white">
         <summary class="cursor-pointer font-medium mb-2">Category</summary>
@@ -49,8 +44,13 @@
           <option value="PWD">PWD</option>
         </select>
       </details>
+    </div>
 
-      <button onclick="applyFilters()" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">Apply Filters</button>
+    <!-- Apply Button -->
+    <div class="mb-6 flex justify-center">
+      <button onclick="applyFilters()" class="bg-blue-600 text-white px-6 py-2 rounded hover:bg-blue-700">
+        Apply Filters
+      </button>
     </div>
 
     <!-- Table -->
@@ -78,7 +78,6 @@
       <button onclick="nextPage()" class="px-4 py-2 bg-gray-300 rounded hover:bg-gray-400">Next</button>
     </div>
   </div>
-
   <script>
     let originalData = [];
     let currentPage = 1;
